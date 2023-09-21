@@ -1,1 +1,3 @@
 # Dataviz
+
+L + Ratio
