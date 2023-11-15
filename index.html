@@ -1,17 +1,24 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-
-    <label for="choix_annee"> Choix année à parse : </label>
-    <input id=choix_annee type="text">
-    <input type="submit" onclick="choix_annee()">
-
-</body>
-<script src="d3.js" defer></script>
-<script src="script.js" defer></script>
-</html>
+    <!DOCTYPE html>
+    <html lang="fr">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <link rel="stylesheet" href="styles.css"> 
+    </head>
+    <body>
+        
+        <h1> LE NOM DU SITE LA </h1>
+        <h2> Le titre la oe oe oe </h2>
+        <label for="choix_annee"> Choix année à parse : </label>
+        <input id=choix_annee type="text">
+        <button onclick="previous()"> Précédent </button>
+        <button onclick="next()"> Suivant </button>
+        <p class="year"> Année : </p>
+        <input type="submit" onclick="choix_annee()">
+        <div id="bar-chart"></div>
+        <div class="stats"></div>
+    </body>
+    <script src="d3.js" defer></script>
+    <script src="script.js" defer></script>
+    </html>

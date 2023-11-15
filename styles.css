@@ -1,0 +1,64 @@
+
+@font-face{
+    font-family: "Gmarket Sans TTF Bold";
+    src: url("fonts/c066fdd8248e28e98522d1b408e5adfa.eot");
+    src: url("fonts/c066fdd8248e28e98522d1b408e5adfa.eot?#iefix")format("embedded-opentype"),
+        url("fonts/c066fdd8248e28e98522d1b408e5adfa.woff")format("woff"),
+        url("fonts/c066fdd8248e28e98522d1b408e5adfa.woff2")format("woff2"),
+        url("fonts/c066fdd8248e28e98522d1b408e5adfa.ttf")format("truetype"),
+        url("fonts/c066fdd8248e28e98522d1b408e5adfa.svg#Gmarket Sans TTF Bold")format("svg");
+    font-weight:normal;
+    font-style:normal;
+    font-display:swap;
+}
+
+@font-face {
+    font-family: 'horizonbold';
+    src: url('fonts/horizon-webfont.woff2') format('woff2'),
+         url('fonts/horizon-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'sentexregular';
+    src: url('fonts/sentex-regular-webfont.woff2') format('woff2'),
+         url('fonts/sentex-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'hk_grotesk_widebold';
+    src: url('fonts/hkgroteskwide-bold-webfont.woff2') format('woff2'),
+         url('fonts/hkgroteskwide-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+g text {
+    font-size:1em;
+}
+
+body {
+    background-image: url("BG.png");
+    background-repeat: no-repeat;
+}
+
+h1 {
+    text-align: center;
+    font-family: "hk_grotesk_widebold";
+    color: white;
+    font-size: 72px;
+
+}
+
+h2 {
+    text-align: center;
+    font-family: "hk_grotesk_widebold";
+    color: white;
+    font-size: 56px;
+}

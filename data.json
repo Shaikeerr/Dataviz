@@ -8,7 +8,9 @@
                 "argent_generé": 835208.29,
                 "nombre_joueurs": "503 Players",
                 "nombre_tournois": "63 Tournaments",
-                "couleur": "#FBAC18"
+                "couleur": "#FBAC18",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 2,
@@ -17,7 +19,9 @@
                 "argent_generé": 299644.65,
                 "nombre_joueurs": "81 Players",
                 "nombre_tournois": "16 Tournaments",
-                "couleur": "#9BCCFF"
+                "couleur": "#9BCCFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 3,
@@ -26,7 +30,9 @@
                 "argent_generé": 250081.85,
                 "nombre_joueurs": "105 Players",
                 "nombre_tournois": "41 Tournaments",
-                "couleur": "#F4861E"
+                "couleur": "#F4861E",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 4,
@@ -35,7 +41,9 @@
                 "argent_generé": 111773.91,
                 "nombre_joueurs": "17 Players",
                 "nombre_tournois": "8 Tournaments",
-                "couleur": "#E7E6E7"
+                "couleur": "#E7E6E7",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 5,
@@ -44,7 +52,9 @@
                 "argent_generé": 107150.00,
                 "nombre_joueurs": "74 Players",
                 "nombre_tournois": "12 Tournaments",
-                "couleur": "#5B98C8"
+                "couleur": "#5B98C8",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 6,
@@ -53,7 +63,9 @@
                 "argent_generé": 89463.46,
                 "nombre_joueurs": "26 Players",
                 "nombre_tournois": "6 Tournaments",
-                "couleur": "#BC1501"
+                "couleur": "#BC1501",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 7,
@@ -62,7 +74,9 @@
                 "argent_generé": 86710.13,
                 "nombre_joueurs": "34 Players",
                 "nombre_tournois": "13 Tournaments",
-                "couleur": "#F39E65"
+                "couleur": "#F39E65",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 8,
@@ -71,7 +85,9 @@
                 "argent_generé": 54066.44,
                 "nombre_joueurs": "10 Players",
                 "nombre_tournois": "3 Tournaments",
-                "couleur": "#A8FF66"
+                "couleur": "#A8FF66",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 9,
@@ -80,7 +96,9 @@
                 "argent_generé": 46000.00,
                 "nombre_joueurs": "24 Players",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#B12D28"
+                "couleur": "#B12D28",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 10,
@@ -89,7 +107,9 @@
                 "argent_generé": 27697.02,
                 "nombre_joueurs": "45 Players",
                 "nombre_tournois": "21 Tournaments",
-                "couleur": "#BF8D4A"
+                "couleur": "#BF8D4A",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 11,
@@ -98,7 +118,9 @@
                 "argent_generé": 15550.00,
                 "nombre_joueurs": "8 Players",
                 "nombre_tournois": "4 Tournaments",
-                "couleur": "#E20501"
+                "couleur": "#E20501",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 12,
@@ -107,7 +129,9 @@
                 "argent_generé": 12500.00,
                 "nombre_joueurs": "3 Players",
                 "nombre_tournois": "3 Tournaments",
-                "couleur": "#E8AA0C"
+                "couleur": "#E8AA0C",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 13,
@@ -116,7 +140,9 @@
                 "argent_generé": 5933.50,
                 "nombre_joueurs": "0 Players",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#999999"
+                "couleur": "#999999",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 14,
@@ -125,7 +151,9 @@
                 "argent_generé": 2491.62,
                 "nombre_joueurs": "5 Players",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#FFF048"
+                "couleur": "#FFF048",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 15,
@@ -134,7 +162,9 @@
                 "argent_generé": 1500.00,
                 "nombre_joueurs": "3 Players",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#1C449B"
+                "couleur": "#1C449B",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 16,
@@ -143,7 +173,9 @@
                 "argent_generé": 1500.00,
                 "nombre_joueurs": "3 Players",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#083D73"
+                "couleur": "#083D73",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 17,
@@ -152,7 +184,9 @@
                 "argent_generé": 1500.00,
                 "nombre_joueurs": "6 Players",
                 "nombre_tournois": "3 Tournaments",
-                "couleur": "#1DE9F2"
+                "couleur": "#1DE9F2",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 18,
@@ -161,7 +195,9 @@
                 "argent_generé": 880.41,
                 "nombre_joueurs": "6 Players",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#4B7941"
+                "couleur": "#4B7941",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 19,
@@ -170,7 +206,9 @@
                 "argent_generé": 625.00,
                 "nombre_joueurs": "4 Players",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#BF8D4A"
+                "couleur": "#BF8D4A",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 20,
@@ -179,7 +217,9 @@
                 "argent_generé": 0.00,
                 "nombre_joueurs": "3 Players",
                 "nombre_tournois": "2 Tournaments",
-                "couleur": "#FFB9AD"
+                "couleur": "#FFB9AD",
+                "URLImage":"logos/logo.jpg"
+
             }
         ],
 
@@ -191,7 +231,9 @@
                 "argent_generé": 914789.75,
                 "nombre_joueurs": "707 Players",
                 "nombre_tournois": "92 Tournaments",
-                "couleur": "#FBAC18"
+                "couleur": "#FBAC18",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 2,
@@ -200,7 +242,9 @@
                 "argent_generé": 562022.02,
                 "nombre_joueurs": "83 Players",
                 "nombre_tournois": "19 Tournaments",
-                "couleur": "#9BCCFF"
+                "couleur": "#9BCCFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 3,
@@ -209,7 +253,9 @@
                 "argent_generé": 463440.61,
                 "nombre_joueurs": "170 Players",
                 "nombre_tournois": "91 Tournaments",
-                "couleur": "#F4861E"
+                "couleur": "#F4861E",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 4,
@@ -218,7 +264,9 @@
                 "argent_generé": 207748.16,
                 "nombre_joueurs": "13 Players",
                 "nombre_tournois": "3 Tournaments",
-                "couleur": "#D85D0B"
+                "couleur": "#D85D0B",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 5,
@@ -227,16 +275,20 @@
                 "argent_generé": 183456.00,
                 "nombre_joueurs": "63 Players",
                 "nombre_tournois": "22 Tournaments",
-                "couleur": "#5B98C8"
+                "couleur": "#5B98C8",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 6,
-                "jeu": "Counter-Strike: Condition Zero",
+                "jeu": "CS: Condition Zero",
                 "lien": "https://www.esportsearnings.com/history/2004/games/171-counter-strike-condition-zero",
                 "argent_generé": 162150.60,
                 "nombre_joueurs": "111 Players",
                 "nombre_tournois": "3 Tournaments",
-                "couleur": "#FBAC18"
+                "couleur": "#FBAC18",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 7,
@@ -245,7 +297,9 @@
                 "argent_generé": 135200.00,
                 "nombre_joueurs": "42 Players",
                 "nombre_tournois": "13 Tournaments",
-                "couleur": "#BC1501"
+                "couleur": "#BC1501",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 8,
@@ -254,7 +308,9 @@
                 "argent_generé": 115212.41,
                 "nombre_joueurs": "38 Players",
                 "nombre_tournois": "5 Tournaments",
-                "couleur": "#E7E6E7"
+                "couleur": "#E7E6E7",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 9,
@@ -263,7 +319,9 @@
                 "argent_generé": 55000.00,
                 "nombre_joueurs": "18 Players",
                 "nombre_tournois": "3 Tournaments",
-                "couleur": "#FFFFFF"
+                "couleur": "#FFFFFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 10,
@@ -272,7 +330,9 @@
                 "argent_generé": 50000.00,
                 "nombre_joueurs": "51 Players",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#7BC42D"
+                "couleur": "#7BC42D",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 11,
@@ -281,7 +341,9 @@
                 "argent_generé": 45565.20,
                 "nombre_joueurs": "113 Players",
                 "nombre_tournois": "15 Tournaments",
-                "couleur": "#BF8D4A"
+                "couleur": "#BF8D4A",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 12,
@@ -290,7 +352,9 @@
                 "argent_generé": 40000.00,
                 "nombre_joueurs": "3 Players",
                 "nombre_tournois": "2 Tournaments",
-                "couleur": "#A8FF66"
+                "couleur": "#A8FF66",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 13,
@@ -299,7 +363,9 @@
                 "argent_generé": 35000.00,
                 "nombre_joueurs": "3 Players",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#FF0A31"
+                "couleur": "#FF0A31",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 14,
@@ -308,7 +374,9 @@
                 "argent_generé": 35000.00,
                 "nombre_joueurs": "3 Players",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#D81B35"
+                "couleur": "#D81B35",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 15,
@@ -317,7 +385,9 @@
                 "argent_generé": 25000.00,
                 "nombre_joueurs": "8 Players",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#F6E614"
+                "couleur": "#F6E614",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 16,
@@ -326,7 +396,9 @@
                 "argent_generé": 13328.00,
                 "nombre_joueurs": "19 Players",
                 "nombre_tournois": "5 Tournaments",
-                "couleur": "#F39E65"
+                "couleur": "#F39E65",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 17,
@@ -335,7 +407,9 @@
                 "argent_generé": 10644.50,
                 "nombre_joueurs": "17 Players",
                 "nombre_tournois": "10 Tournaments",
-                "couleur": "#E20501"
+                "couleur": "#E20501",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 18,
@@ -344,7 +418,9 @@
                 "argent_generé": 10000.00,
                 "nombre_joueurs": "18 Players",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#4B7941"
+                "couleur": "#4B7941",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 19,
@@ -353,7 +429,9 @@
                 "argent_generé": 2700.00,
                 "nombre_joueurs": "3 Players",
                 "nombre_tournois": "2 Tournaments",
-                "couleur": "#1DE9F2"
+                "couleur": "#1DE9F2",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 20,
@@ -362,7 +440,9 @@
                 "argent_generé": 1750.00,
                 "nombre_joueurs": "3 Players",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#1C449B"
+                "couleur": "#1C449B",
+                "URLImage":"logos/logo.jpg"
+
             }
         ],
 
@@ -374,7 +454,9 @@
                 "argent_generé": 1354441.43,
                 "nombre_joueurs": "777 Players",
                 "nombre_tournois": "98 Tournaments",
-                "couleur": "#FBAC18"
+                "couleur": "#FBAC18",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 2,
@@ -383,7 +465,9 @@
                 "argent_generé": 960000.00,
                 "nombre_joueurs": "42 Players",
                 "nombre_tournois": "10 Tournaments",
-                "couleur": "#FFFFFF"
+                "couleur": "#FFFFFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 3,
@@ -392,7 +476,9 @@
                 "argent_generé": 627006.19,
                 "nombre_joueurs": "84 Players",
                 "nombre_tournois": "30 Tournaments",
-                "couleur": "#9BCCFF"
+                "couleur": "#9BCCFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 4,
@@ -401,7 +487,9 @@
                 "argent_generé": 485410.03,
                 "nombre_joueurs": "112 Players",
                 "nombre_tournois": "91 Tournaments",
-                "couleur": "#F4861E"
+                "couleur": "#F4861E",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 5,
@@ -410,16 +498,20 @@
                 "argent_generé": 197850.00,
                 "nombre_joueurs": "65 Players",
                 "nombre_tournois": "38 Tournaments",
-                "couleur": "#5B98C8"
+                "couleur": "#5B98C8",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 6,
-                "jeu": "Counter-Strike: Source",
+                "jeu": "CS: Source",
                 "lien": "https://www.esportsearnings.com/history/2005/games/226-counter-strike-source",
                 "argent_generé": 150546.22,
                 "nombre_joueurs": "103 Players",
                 "nombre_tournois": "12 Tournaments",
-                "couleur": "#FBAC18"
+                "couleur": "#FBAC18",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 7,
@@ -428,7 +520,9 @@
                 "argent_generé": 57728.01,
                 "nombre_joueurs": "5 Players",
                 "nombre_tournois": "7 Tournaments",
-                "couleur": "#A8FF66"
+                "couleur": "#A8FF66",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 8,
@@ -437,7 +531,9 @@
                 "argent_generé": 57160.44,
                 "nombre_joueurs": "24 Players",
                 "nombre_tournois": "9 Tournaments",
-                "couleur": "#BC1501"
+                "couleur": "#BC1501",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 9,
@@ -446,7 +542,9 @@
                 "argent_generé": 51780.70,
                 "nombre_joueurs": "42 Players",
                 "nombre_tournois": "7 Tournaments",
-                "couleur": "#BC1501"
+                "couleur": "#BC1501",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 10,
@@ -455,7 +553,9 @@
                 "argent_generé": 50000.00,
                 "nombre_joueurs": "3 Players",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#D85D0B"
+                "couleur": "#D85D0B",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 11,
@@ -464,7 +564,9 @@
                 "argent_generé": 50000.00,
                 "nombre_joueurs": "19 Players",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#B12D28"
+                "couleur": "#B12D28",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 12,
@@ -473,7 +575,9 @@
                 "argent_generé": 40816.91,
                 "nombre_joueurs": "50 Players",
                 "nombre_tournois": "13 Tournaments",
-                "couleur": "#BF8D4A"
+                "couleur": "#BF8D4A",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 13,
@@ -482,7 +586,9 @@
                 "argent_generé": 40550.64,
                 "nombre_joueurs": "11 Players",
                 "nombre_tournois": "2 Tournaments",
-                "couleur": "#EC0079"
+                "couleur": "#EC0079",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 14,
@@ -491,7 +597,9 @@
                 "argent_generé": 36659.37,
                 "nombre_joueurs": "21 Players",
                 "nombre_tournois": "7 Tournaments",
-                "couleur": "#E7E6E7"
+                "couleur": "#E7E6E7",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 15,
@@ -500,7 +608,9 @@
                 "argent_generé": 36072.46,
                 "nombre_joueurs": "48 Players",
                 "nombre_tournois": "30 Tournaments",
-                "couleur": "#E20501"
+                "couleur": "#E20501",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 16,
@@ -509,7 +619,9 @@
                 "argent_generé": 35629.48,
                 "nombre_joueurs": "8 Players",
                 "nombre_tournois": "3 Tournaments",
-                "couleur": "#FF0A31"
+                "couleur": "#FF0A31",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 17,
@@ -518,7 +630,9 @@
                 "argent_generé": 35000.00,
                 "nombre_joueurs": "3 Players",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#6EAAD1"
+                "couleur": "#6EAAD1",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 18,
@@ -527,7 +641,9 @@
                 "argent_generé": 30000.00,
                 "nombre_joueurs": "23 Players",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#4B7941"
+                "couleur": "#4B7941",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 19,
@@ -536,7 +652,9 @@
                 "argent_generé": 30000.00,
                 "nombre_joueurs": "3 Players",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#828489"
+                "couleur": "#828489",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 20,
@@ -545,7 +663,9 @@
                 "argent_generé": 26694.54,
                 "nombre_joueurs": "6 Players",
                 "nombre_tournois": "2 Tournaments",
-                "couleur": "#A8FF66"
+                "couleur": "#A8FF66",
+                "URLImage":"logos/logo.jpg"
+
             }
         ],
 
@@ -557,7 +677,9 @@
                 "argent_generé": 2136311.20,
                 "nombre_joueurs": "967 Players",
                 "nombre_tournois": "122 Tournaments",
-                "couleur": "#FBAC18"
+                "couleur": "#FBAC18",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 2,
@@ -566,7 +688,9 @@
                 "argent_generé": 848422.31,
                 "nombre_joueurs": "147 Players",
                 "nombre_tournois": "47 Tournaments",
-                "couleur": "#9BCCFF"
+                "couleur": "#9BCCFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 3,
@@ -575,7 +699,9 @@
                 "argent_generé": 618050.00,
                 "nombre_joueurs": "54 Players",
                 "nombre_tournois": "19 Tournaments",
-                "couleur": "#5B98C8"
+                "couleur": "#5B98C8",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 4,
@@ -584,7 +710,9 @@
                 "argent_generé": 578116.17,
                 "nombre_joueurs": "121 Players",
                 "nombre_tournois": "89 Tournaments",
-                "couleur": "#F4861E"
+                "couleur": "#F4861E",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 5,
@@ -593,16 +721,20 @@
                 "argent_generé": 365755.30,
                 "nombre_joueurs": "77 Players",
                 "nombre_tournois": "35 Tournaments",
-                "couleur": "#BC1501"
+                "couleur": "#BC1501",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 6,
-                "jeu": "Counter-Strike: Source",
+                "jeu": "CS: Source",
                 "lien": "https://www.esportsearnings.com/history/2006/games/226-counter-strike-source",
                 "argent_generé": 177710.53,
                 "nombre_joueurs": "254 Players",
                 "nombre_tournois": "26 Tournaments",
-                "couleur": "#FBAC18"
+                "couleur": "#FBAC18",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 7,
@@ -611,7 +743,9 @@
                 "argent_generé": 144584.00,
                 "nombre_joueurs": "44 Players",
                 "nombre_tournois": "22 Tournaments",
-                "couleur": "#E20501"
+                "couleur": "#E20501",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 8,
@@ -620,7 +754,9 @@
                 "argent_generé": 100000.00,
                 "nombre_joueurs": "1 Player",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#083D73"
+                "couleur": "#083D73",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 9,
@@ -629,7 +765,9 @@
                 "argent_generé": 85769.99,
                 "nombre_joueurs": "17 Players",
                 "nombre_tournois": "10 Tournaments",
-                "couleur": "#A8FF66"
+                "couleur": "#A8FF66",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 10,
@@ -638,7 +776,9 @@
                 "argent_generé": 83847.08,
                 "nombre_joueurs": "25 Players",
                 "nombre_tournois": "7 Tournaments",
-                "couleur": "#98E13B"
+                "couleur": "#98E13B",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 11,
@@ -647,7 +787,9 @@
                 "argent_generé": 83813.76,
                 "nombre_joueurs": "46 Players",
                 "nombre_tournois": "6 Tournaments",
-                "couleur": "#BC1501"
+                "couleur": "#BC1501",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 12,
@@ -656,7 +798,9 @@
                 "argent_generé": 79074.59,
                 "nombre_joueurs": "0 Players",
                 "nombre_tournois": "8 Tournaments",
-                "couleur": "#DE0728"
+                "couleur": "#DE0728",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 13,
@@ -665,7 +809,9 @@
                 "argent_generé": 72300.00,
                 "nombre_joueurs": "8 Players",
                 "nombre_tournois": "4 Tournaments",
-                "couleur": "#D81B35"
+                "couleur": "#D81B35",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 14,
@@ -674,7 +820,9 @@
                 "argent_generé": 53050.00,
                 "nombre_joueurs": "13 Players",
                 "nombre_tournois": "4 Tournaments",
-                "couleur": "#828489"
+                "couleur": "#828489",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 15,
@@ -683,7 +831,9 @@
                 "argent_generé": 43000.00,
                 "nombre_joueurs": "3 Players",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#6EAAD1"
+                "couleur": "#6EAAD1",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 16,
@@ -692,7 +842,9 @@
                 "argent_generé": 36350.20,
                 "nombre_joueurs": "54 Players",
                 "nombre_tournois": "4 Tournaments",
-                "couleur": "#B12D28"
+                "couleur": "#B12D28",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 17,
@@ -701,7 +853,9 @@
                 "argent_generé": 35000.00,
                 "nombre_joueurs": "14 Players",
                 "nombre_tournois": "6 Tournaments",
-                "couleur": "#FF0A31"
+                "couleur": "#FF0A31",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 18,
@@ -710,7 +864,9 @@
                 "argent_generé": 32000.00,
                 "nombre_joueurs": "4 Players",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#1C449B"
+                "couleur": "#1C449B",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 19,
@@ -719,7 +875,9 @@
                 "argent_generé": 32000.00,
                 "nombre_joueurs": "4 Players",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#F6E614"
+                "couleur": "#F6E614",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 20,
@@ -728,7 +886,9 @@
                 "argent_generé": 31249.28,
                 "nombre_joueurs": "0 Players",
                 "nombre_tournois": "8 Tournaments",
-                "couleur": "#7BC42D"
+                "couleur": "#7BC42D",
+                "URLImage":"logos/logo.jpg"
+
             }
         ],
 
@@ -740,7 +900,9 @@
                 "argent_generé": 1641126.20,
                 "nombre_joueurs": "934 Players",
                 "nombre_tournois": "110 Tournaments",
-                "couleur": "#FBAC18"
+                "couleur": "#FBAC18",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 2,
@@ -749,7 +911,9 @@
                 "argent_generé": 1103760.38,
                 "nombre_joueurs": "153 Players",
                 "nombre_tournois": "46 Tournaments",
-                "couleur": "#9BCCFF"
+                "couleur": "#9BCCFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 3,
@@ -758,16 +922,20 @@
                 "argent_generé": 879490.75,
                 "nombre_joueurs": "144 Players",
                 "nombre_tournois": "145 Tournaments",
-                "couleur": "#F4861E"
+                "couleur": "#F4861E",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 4,
-                "jeu": "Counter-Strike: Source",
+                "jeu": "CS: Source",
                 "lien": "https://www.esportsearnings.com/history/2007/games/226-counter-strike-source",
                 "argent_generé": 836896.60,
                 "nombre_joueurs": "413 Players",
                 "nombre_tournois": "45 Tournaments",
-                "couleur": "#FBAC18"
+                "couleur": "#FBAC18",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 5,
@@ -776,7 +944,9 @@
                 "argent_generé": 673462.47,
                 "nombre_joueurs": "65 Players",
                 "nombre_tournois": "14 Tournaments",
-                "couleur": "#5B98C8"
+                "couleur": "#5B98C8",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 6,
@@ -785,7 +955,9 @@
                 "argent_generé": 254986.85,
                 "nombre_joueurs": "30 Players",
                 "nombre_tournois": "6 Tournaments",
-                "couleur": "#828489"
+                "couleur": "#828489",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 7,
@@ -794,7 +966,9 @@
                 "argent_generé": 224986.85,
                 "nombre_joueurs": "27 Players",
                 "nombre_tournois": "5 Tournaments",
-                "couleur": "#D81B35"
+                "couleur": "#D81B35",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 8,
@@ -803,7 +977,9 @@
                 "argent_generé": 220400.00,
                 "nombre_joueurs": "30 Players",
                 "nombre_tournois": "7 Tournaments",
-                "couleur": "#EED01A"
+                "couleur": "#EED01A",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 9,
@@ -812,16 +988,20 @@
                 "argent_generé": 211012.23,
                 "nombre_joueurs": "38 Players",
                 "nombre_tournois": "11 Tournaments",
-                "couleur": "#A8FF66"
+                "couleur": "#A8FF66",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 10,
-                "jeu": "Rainbow Six: Vegas",
+                "jeu": "R6: Vegas",
                 "lien": "https://www.esportsearnings.com/history/2007/games/265-rainbow-six-vegas",
                 "argent_generé": 176400.77,
                 "nombre_joueurs": "106 Players",
                 "nombre_tournois": "7 Tournaments",
-                "couleur": "#02508D"
+                "couleur": "#02508D",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 11,
@@ -830,7 +1010,9 @@
                 "argent_generé": 170900.77,
                 "nombre_joueurs": "33 Players",
                 "nombre_tournois": "7 Tournaments",
-                "couleur": "#E52818"
+                "couleur": "#E52818",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 12,
@@ -839,7 +1021,9 @@
                 "argent_generé": 146558.81,
                 "nombre_joueurs": "30 Players",
                 "nombre_tournois": "10 Tournaments",
-                "couleur": "#BC1501"
+                "couleur": "#BC1501",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 13,
@@ -848,7 +1032,9 @@
                 "argent_generé": 100000.00,
                 "nombre_joueurs": "16 Players",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#5B98C8"
+                "couleur": "#5B98C8",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 14,
@@ -857,7 +1043,9 @@
                 "argent_generé": 100000.00,
                 "nombre_joueurs": "1 Player",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#083D73"
+                "couleur": "#083D73",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 15,
@@ -866,7 +1054,9 @@
                 "argent_generé": 100000.00,
                 "nombre_joueurs": "1 Player",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#083D73"
+                "couleur": "#083D73",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 16,
@@ -875,7 +1065,9 @@
                 "argent_generé": 78733.31,
                 "nombre_joueurs": "115 Players",
                 "nombre_tournois": "66 Tournaments",
-                "couleur": "#E20501"
+                "couleur": "#E20501",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 17,
@@ -884,7 +1076,9 @@
                 "argent_generé": 69600.00,
                 "nombre_joueurs": "8 Players",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#A3DAF7"
+                "couleur": "#A3DAF7",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 18,
@@ -893,7 +1087,9 @@
                 "argent_generé": 65227.50,
                 "nombre_joueurs": "19 Players",
                 "nombre_tournois": "4 Tournaments",
-                "couleur": "#FFFFFF"
+                "couleur": "#FFFFFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 19,
@@ -902,7 +1098,9 @@
                 "argent_generé": 60000.00,
                 "nombre_joueurs": "20 Players",
                 "nombre_tournois": "3 Tournaments",
-                "couleur": "#D40000"
+                "couleur": "#D40000",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 20,
@@ -911,7 +1109,9 @@
                 "argent_generé": 56273.00,
                 "nombre_joueurs": "26 Players",
                 "nombre_tournois": "2 Tournaments",
-                "couleur": "#BC1501"
+                "couleur": "#BC1501",
+                "URLImage":"logos/logo.jpg"
+
             }
         ],
 
@@ -923,7 +1123,9 @@
                 "argent_generé": 1690779.83,
                 "nombre_joueurs": "784 Players",
                 "nombre_tournois": "117 Tournaments",
-                "couleur": "#FBAC18"
+                "couleur": "#FBAC18",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 2,
@@ -932,16 +1134,20 @@
                 "argent_generé": 1081476.61,
                 "nombre_joueurs": "203 Players",
                 "nombre_tournois": "34 Tournaments",
-                "couleur": "#9BCCFF"
+                "couleur": "#9BCCFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 3,
-                "jeu": "Counter-Strike: Source",
+                "jeu": "CS: Source",
                 "lien": "https://www.esportsearnings.com/history/2008/games/226-counter-strike-source",
                 "argent_generé": 871999.50,
                 "nombre_joueurs": "468 Players",
                 "nombre_tournois": "60 Tournaments",
-                "couleur": "#FBAC18"
+                "couleur": "#FBAC18",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 4,
@@ -950,7 +1156,9 @@
                 "argent_generé": 720154.22,
                 "nombre_joueurs": "139 Players",
                 "nombre_tournois": "114 Tournaments",
-                "couleur": "#F4861E"
+                "couleur": "#F4861E",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 5,
@@ -959,7 +1167,9 @@
                 "argent_generé": 688924.67,
                 "nombre_joueurs": "72 Players",
                 "nombre_tournois": "11 Tournaments",
-                "couleur": "#5B98C8"
+                "couleur": "#5B98C8",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 6,
@@ -968,7 +1178,9 @@
                 "argent_generé": 557300.00,
                 "nombre_joueurs": "87 Players",
                 "nombre_tournois": "15 Tournaments",
-                "couleur": "#EED01A"
+                "couleur": "#EED01A",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 7,
@@ -977,16 +1189,20 @@
                 "argent_generé": 228110.73,
                 "nombre_joueurs": "25 Players",
                 "nombre_tournois": "7 Tournaments",
-                "couleur": "#FFFFFF"
+                "couleur": "#FFFFFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 8,
-                "jeu": "Call of Duty 4: Modern Warfare",
+                "jeu": "Call of Duty 4: MW",
                 "lien": "https://www.esportsearnings.com/history/2008/games/264-call-of-duty-4-modern-warfare",
                 "argent_generé": 218907.09,
                 "nombre_joueurs": "165 Players",
                 "nombre_tournois": "23 Tournaments",
-                "couleur": "#7BC42D"
+                "couleur": "#7BC42D",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 9,
@@ -995,7 +1211,9 @@
                 "argent_generé": 207000.00,
                 "nombre_joueurs": "16 Players",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#E33682"
+                "couleur": "#E33682",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 10,
@@ -1004,7 +1222,9 @@
                 "argent_generé": 201433.25,
                 "nombre_joueurs": "62 Players",
                 "nombre_tournois": "13 Tournaments",
-                "couleur": "#A8FF66"
+                "couleur": "#A8FF66",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 11,
@@ -1013,7 +1233,9 @@
                 "argent_generé": 189708.46,
                 "nombre_joueurs": "18 Players",
                 "nombre_tournois": "3 Tournaments",
-                "couleur": "#828489"
+                "couleur": "#828489",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 12,
@@ -1022,7 +1244,9 @@
                 "argent_generé": 118000.00,
                 "nombre_joueurs": "8 Players",
                 "nombre_tournois": "2 Tournaments",
-                "couleur": "#D40000"
+                "couleur": "#D40000",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 13,
@@ -1031,7 +1255,9 @@
                 "argent_generé": 104812.82,
                 "nombre_joueurs": "3 Players",
                 "nombre_tournois": "3 Tournaments",
-                "couleur": "#E7E6E7"
+                "couleur": "#E7E6E7",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 14,
@@ -1040,7 +1266,9 @@
                 "argent_generé": 100000.00,
                 "nombre_joueurs": "1 Player",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#083D73"
+                "couleur": "#083D73",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 15,
@@ -1049,7 +1277,9 @@
                 "argent_generé": 81556.24,
                 "nombre_joueurs": "55 Players",
                 "nombre_tournois": "11 Tournaments",
-                "couleur": "#F7E160"
+                "couleur": "#F7E160",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 16,
@@ -1058,7 +1288,9 @@
                 "argent_generé": 66974.50,
                 "nombre_joueurs": "0 Players",
                 "nombre_tournois": "6 Tournaments",
-                "couleur": "#E52818"
+                "couleur": "#E52818",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 17,
@@ -1067,16 +1299,20 @@
                 "argent_generé": 65619.70,
                 "nombre_joueurs": "23 Players",
                 "nombre_tournois": "14 Tournaments",
-                "couleur": "#BC1501"
+                "couleur": "#BC1501",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 18,
-                "jeu": "Rainbow Six: Vegas 2",
+                "jeu": "R6: Vegas 2",
                 "lien": "https://www.esportsearnings.com/history/2008/games/266-rainbow-six-vegas-2",
                 "argent_generé": 64000.00,
                 "nombre_joueurs": "0 Players",
                 "nombre_tournois": "6 Tournaments",
-                "couleur": "#02508D"
+                "couleur": "#02508D",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 19,
@@ -1085,7 +1321,9 @@
                 "argent_generé": 59639.44,
                 "nombre_joueurs": "74 Players",
                 "nombre_tournois": "7 Tournaments",
-                "couleur": "#C8933D"
+                "couleur": "#C8933D",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 20,
@@ -1094,7 +1332,9 @@
                 "argent_generé": 35000.00,
                 "nombre_joueurs": "6 Players",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#E34E2F"
+                "couleur": "#E34E2F",
+                "URLImage":"logos/logo.jpg"
+
             }
         ],
 
@@ -1106,7 +1346,9 @@
                 "argent_generé": 1354652.70,
                 "nombre_joueurs": "797 Players",
                 "nombre_tournois": "123 Tournaments",
-                "couleur": "#FBAC18"
+                "couleur": "#FBAC18",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 2,
@@ -1115,7 +1357,9 @@
                 "argent_generé": 719717.80,
                 "nombre_joueurs": "139 Players",
                 "nombre_tournois": "52 Tournaments",
-                "couleur": "#9BCCFF"
+                "couleur": "#9BCCFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 3,
@@ -1124,7 +1368,9 @@
                 "argent_generé": 397506.60,
                 "nombre_joueurs": "85 Players",
                 "nombre_tournois": "98 Tournaments",
-                "couleur": "#F4861E"
+                "couleur": "#F4861E",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 4,
@@ -1133,16 +1379,20 @@
                 "argent_generé": 359438.91,
                 "nombre_joueurs": "70 Players",
                 "nombre_tournois": "13 Tournaments",
-                "couleur": "#EED01A"
+                "couleur": "#EED01A",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 5,
-                "jeu": "Counter-Strike: Source",
+                "jeu": "CS: Source",
                 "lien": "https://www.esportsearnings.com/history/2009/games/226-counter-strike-source",
                 "argent_generé": 249923.73,
                 "nombre_joueurs": "324 Players",
                 "nombre_tournois": "48 Tournaments",
-                "couleur": "#FBAC18"
+                "couleur": "#FBAC18",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 6,
@@ -1151,7 +1401,9 @@
                 "argent_generé": 234900.71,
                 "nombre_joueurs": "76 Players",
                 "nombre_tournois": "7 Tournaments",
-                "couleur": "#5B98C8"
+                "couleur": "#5B98C8",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 7,
@@ -1160,7 +1412,9 @@
                 "argent_generé": 124530.20,
                 "nombre_joueurs": "123 Players",
                 "nombre_tournois": "17 Tournaments",
-                "couleur": "#F7E160"
+                "couleur": "#F7E160",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 8,
@@ -1169,16 +1423,20 @@
                 "argent_generé": 118886.69,
                 "nombre_joueurs": "52 Players",
                 "nombre_tournois": "17 Tournaments",
-                "couleur": "#A8FF66"
+                "couleur": "#A8FF66",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 9,
-                "jeu": "Call of Duty 4: Modern Warfare",
+                "jeu": "Call of Duty 4: MW",
                 "lien": "https://www.esportsearnings.com/history/2009/games/264-call-of-duty-4-modern-warfare",
                 "argent_generé": 109724.84,
                 "nombre_joueurs": "121 Players",
                 "nombre_tournois": "21 Tournaments",
-                "couleur": "#7BC42D"
+                "couleur": "#7BC42D",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 10,
@@ -1187,7 +1445,9 @@
                 "argent_generé": 79946.08,
                 "nombre_joueurs": "33 Players",
                 "nombre_tournois": "19 Tournaments",
-                "couleur": "#BC1501"
+                "couleur": "#BC1501",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 11,
@@ -1196,7 +1456,9 @@
                 "argent_generé": 60000.00,
                 "nombre_joueurs": "0 Players",
                 "nombre_tournois": "4 Tournaments",
-                "couleur": "#E52818"
+                "couleur": "#E52818",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 12,
@@ -1205,7 +1467,9 @@
                 "argent_generé": 51999.99,
                 "nombre_joueurs": "153 Players",
                 "nombre_tournois": "89 Tournaments",
-                "couleur": "#E20501"
+                "couleur": "#E20501",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 13,
@@ -1214,7 +1478,9 @@
                 "argent_generé": 50400.00,
                 "nombre_joueurs": "194 Players",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#F79D09"
+                "couleur": "#F79D09",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 14,
@@ -1223,7 +1489,9 @@
                 "argent_generé": 50000.00,
                 "nombre_joueurs": "8 Players",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#CE3021"
+                "couleur": "#CE3021",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 15,
@@ -1232,7 +1500,9 @@
                 "argent_generé": 48302.26,
                 "nombre_joueurs": "195 Players",
                 "nombre_tournois": "97 Tournaments",
-                "couleur": "#E20501"
+                "couleur": "#E20501",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 16,
@@ -1241,7 +1511,9 @@
                 "argent_generé": 40665.08,
                 "nombre_joueurs": "35 Players",
                 "nombre_tournois": "15 Tournaments",
-                "couleur": "#98E13B"
+                "couleur": "#98E13B",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 17,
@@ -1250,7 +1522,9 @@
                 "argent_generé": 32478.48,
                 "nombre_joueurs": "142 Players",
                 "nombre_tournois": "10 Tournaments",
-                "couleur": "#C8933D"
+                "couleur": "#C8933D",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 18,
@@ -1259,16 +1533,20 @@
                 "argent_generé": 23000.00,
                 "nombre_joueurs": "12 Players",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#E34E2F"
+                "couleur": "#E34E2F",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 19,
-                "jeu": "Rainbow Six: Vegas 2",
+                "jeu": "R6: Vegas 2",
                 "lien": "https://www.esportsearnings.com/history/2009/games/266-rainbow-six-vegas-2",
                 "argent_generé": 15000.00,
                 "nombre_joueurs": "0 Players",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#02508D"
+                "couleur": "#02508D",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 20,
@@ -1277,7 +1555,9 @@
                 "argent_generé": 12000.00,
                 "nombre_joueurs": "3 Players",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#6375CD"
+                "couleur": "#6375CD",
+                "URLImage":"logos/logo.jpg"
+
             }
         ],
 
@@ -1289,7 +1569,9 @@
                 "argent_generé": 1458931.05,
                 "nombre_joueurs": "885 Players",
                 "nombre_tournois": "119 Tournaments",
-                "couleur": "#FBAC18"
+                "couleur": "#FBAC18",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 2,
@@ -1298,7 +1580,9 @@
                 "argent_generé": 820839.29,
                 "nombre_joueurs": "320 Players",
                 "nombre_tournois": "277 Tournaments",
-                "couleur": "#9BCCFF"
+                "couleur": "#9BCCFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 3,
@@ -1307,7 +1591,9 @@
                 "argent_generé": 798113.79,
                 "nombre_joueurs": "85 Players",
                 "nombre_tournois": "9 Tournaments",
-                "couleur": "#5B98C8"
+                "couleur": "#5B98C8",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 4,
@@ -1316,7 +1602,9 @@
                 "argent_generé": 641845.88,
                 "nombre_joueurs": "105 Players",
                 "nombre_tournois": "19 Tournaments",
-                "couleur": "#9BCCFF"
+                "couleur": "#9BCCFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 5,
@@ -1325,16 +1613,20 @@
                 "argent_generé": 360838.61,
                 "nombre_joueurs": "130 Players",
                 "nombre_tournois": "95 Tournaments",
-                "couleur": "#F4861E"
+                "couleur": "#F4861E",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 6,
-                "jeu": "Counter-Strike: Source",
+                "jeu": "CS: Source",
                 "lien": "https://www.esportsearnings.com/history/2010/games/226-counter-strike-source",
                 "argent_generé": 348564.39,
                 "nombre_joueurs": "555 Players",
                 "nombre_tournois": "61 Tournaments",
-                "couleur": "#FBAC18"
+                "couleur": "#FBAC18",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 7,
@@ -1343,7 +1635,9 @@
                 "argent_generé": 291250.00,
                 "nombre_joueurs": "63 Players",
                 "nombre_tournois": "9 Tournaments",
-                "couleur": "#EED01A"
+                "couleur": "#EED01A",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 8,
@@ -1352,7 +1646,10 @@
                 "argent_generé": 200000.00,
                 "nombre_joueurs": "2 Players",
                 "nombre_tournois": "2 Tournaments",
-                "couleur": "#49B330"
+                "couleur": "#49B330",
+                "URLImage":"logos/logo.jpg"
+
+                
             },
             {
                 "position": 9,
@@ -1361,7 +1658,9 @@
                 "argent_generé": 177411.41,
                 "nombre_joueurs": "77 Players",
                 "nombre_tournois": "76 Tournaments",
-                "couleur": "#BC1501"
+                "couleur": "#BC1501",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 10,
@@ -1370,7 +1669,9 @@
                 "argent_generé": 158306.30,
                 "nombre_joueurs": "116 Players",
                 "nombre_tournois": "17 Tournaments",
-                "couleur": "#F7E160"
+                "couleur": "#F7E160",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 11,
@@ -1379,7 +1680,9 @@
                 "argent_generé": 117026.71,
                 "nombre_joueurs": "64 Players",
                 "nombre_tournois": "48 Tournaments",
-                "couleur": "#A8FF66"
+                "couleur": "#A8FF66",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 12,
@@ -1388,16 +1691,20 @@
                 "argent_generé": 100000.00,
                 "nombre_joueurs": "12 Players",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#CE3021"
+                "couleur": "#CE3021",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 13,
-                "jeu": "Call of Duty: Modern Warfare 2",
+                "jeu": "CoD MW 2",
                 "lien": "https://www.esportsearnings.com/history/2010/games/369-call-of-duty-modern-warfare-2",
                 "argent_generé": 95448.80,
                 "nombre_joueurs": "37 Players",
                 "nombre_tournois": "13 Tournaments",
-                "couleur": "#7BC42D"
+                "couleur": "#7BC42D",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 14,
@@ -1406,7 +1713,9 @@
                 "argent_generé": 85600.00,
                 "nombre_joueurs": "0 Players",
                 "nombre_tournois": "2 Tournaments",
-                "couleur": "#F38D1D"
+                "couleur": "#F38D1D",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 15,
@@ -1415,7 +1724,9 @@
                 "argent_generé": 76418.69,
                 "nombre_joueurs": "32 Players",
                 "nombre_tournois": "12 Tournaments",
-                "couleur": "#E8AA0C"
+                "couleur": "#E8AA0C",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 16,
@@ -1424,7 +1735,9 @@
                 "argent_generé": 75000.00,
                 "nombre_joueurs": "0 Players",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#E52818"
+                "couleur": "#E52818",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 17,
@@ -1433,7 +1746,9 @@
                 "argent_generé": 74805.20,
                 "nombre_joueurs": "77 Players",
                 "nombre_tournois": "25 Tournaments",
-                "couleur": "#E20501"
+                "couleur": "#E20501",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 18,
@@ -1442,7 +1757,9 @@
                 "argent_generé": 58890.61,
                 "nombre_joueurs": "59 Players",
                 "nombre_tournois": "22 Tournaments",
-                "couleur": "#98E13B"
+                "couleur": "#98E13B",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 19,
@@ -1451,7 +1768,9 @@
                 "argent_generé": 51240.00,
                 "nombre_joueurs": "12 Players",
                 "nombre_tournois": "4 Tournaments",
-                "couleur": "#FDBD10"
+                "couleur": "#FDBD10",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 20,
@@ -1460,7 +1779,9 @@
                 "argent_generé": 45064.90,
                 "nombre_joueurs": "23 Players",
                 "nombre_tournois": "8 Tournaments",
-                "couleur": "#A9A92F"
+                "couleur": "#A9A92F",
+                "URLImage":"logos/logo.jpg"
+
             }
         ],
 
@@ -1472,7 +1793,9 @@
                 "argent_generé": 3199680.74,
                 "nombre_joueurs": "520 Players",
                 "nombre_tournois": "795 Tournaments",
-                "couleur": "#9BCCFF"
+                "couleur": "#9BCCFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 2,
@@ -1481,16 +1804,20 @@
                 "argent_generé": 1672768.08,
                 "nombre_joueurs": "97 Players",
                 "nombre_tournois": "7 Tournaments",
-                "couleur": "#A82E15"
+                "couleur": "#A82E15",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 3,
-                "jeu": "Call of Duty: Modern Warfare 3",
+                "jeu": "CoD MW 3",
                 "lien": "https://www.esportsearnings.com/history/2011/games/258-call-of-duty-modern-warfare-3",
                 "argent_generé": 1006015.34,
                 "nombre_joueurs": "44 Players",
                 "nombre_tournois": "5 Tournaments",
-                "couleur": "#7BC42D"
+                "couleur": "#7BC42D",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 4,
@@ -1499,7 +1826,9 @@
                 "argent_generé": 879914.71,
                 "nombre_joueurs": "686 Players",
                 "nombre_tournois": "84 Tournaments",
-                "couleur": "#FBAC18"
+                "couleur": "#FBAC18",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 5,
@@ -1508,7 +1837,9 @@
                 "argent_generé": 593521.98,
                 "nombre_joueurs": "86 Players",
                 "nombre_tournois": "15 Tournaments",
-                "couleur": "#5B98C8"
+                "couleur": "#5B98C8",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 6,
@@ -1517,7 +1848,9 @@
                 "argent_generé": 527994.51,
                 "nombre_joueurs": "387 Players",
                 "nombre_tournois": "172 Tournaments",
-                "couleur": "#4AFFFF"
+                "couleur": "#4AFFFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 7,
@@ -1526,25 +1859,31 @@
                 "argent_generé": 424391.07,
                 "nombre_joueurs": "111 Players",
                 "nombre_tournois": "38 Tournaments",
-                "couleur": "#9BCCFF"
+                "couleur": "#9BCCFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 8,
-                "jeu": "Call of Duty: Black Ops",
+                "jeu": "CoD Black Ops",
                 "lien": "https://www.esportsearnings.com/history/2011/games/243-call-of-duty-black-ops",
                 "argent_generé": 376553.48,
                 "nombre_joueurs": "118 Players",
                 "nombre_tournois": "23 Tournaments",
-                "couleur": "#7BC42D"
+                "couleur": "#7BC42D",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 9,
-                "jeu": "Counter-Strike: Source",
+                "jeu": "CS: Source",
                 "lien": "https://www.esportsearnings.com/history/2011/games/226-counter-strike-source",
                 "argent_generé": 261943.40,
                 "nombre_joueurs": "329 Players",
                 "nombre_tournois": "42 Tournaments",
-                "couleur": "#FBAC18"
+                "couleur": "#FBAC18",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 10,
@@ -1553,7 +1892,9 @@
                 "argent_generé": 244082.84,
                 "nombre_joueurs": "246 Players",
                 "nombre_tournois": "27 Tournaments",
-                "couleur": "#F7E160"
+                "couleur": "#F7E160",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 11,
@@ -1562,7 +1903,9 @@
                 "argent_generé": 192000.00,
                 "nombre_joueurs": "22 Players",
                 "nombre_tournois": "4 Tournaments",
-                "couleur": "#EED01A"
+                "couleur": "#EED01A",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 12,
@@ -1571,7 +1914,9 @@
                 "argent_generé": 173498.92,
                 "nombre_joueurs": "89 Players",
                 "nombre_tournois": "82 Tournaments",
-                "couleur": "#F4861E"
+                "couleur": "#F4861E",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 13,
@@ -1580,7 +1925,9 @@
                 "argent_generé": 153840.35,
                 "nombre_joueurs": "42 Players",
                 "nombre_tournois": "14 Tournaments",
-                "couleur": "#A9A92F"
+                "couleur": "#A9A92F",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 14,
@@ -1589,7 +1936,9 @@
                 "argent_generé": 125267.32,
                 "nombre_joueurs": "39 Players",
                 "nombre_tournois": "68 Tournaments",
-                "couleur": "#BC1501"
+                "couleur": "#BC1501",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 15,
@@ -1598,7 +1947,9 @@
                 "argent_generé": 100000.00,
                 "nombre_joueurs": "12 Players",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#CE3021"
+                "couleur": "#CE3021",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 16,
@@ -1607,7 +1958,9 @@
                 "argent_generé": 90180.92,
                 "nombre_joueurs": "68 Players",
                 "nombre_tournois": "62 Tournaments",
-                "couleur": "#A8FF66"
+                "couleur": "#A8FF66",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 17,
@@ -1616,7 +1969,9 @@
                 "argent_generé": 56552.09,
                 "nombre_joueurs": "41 Players",
                 "nombre_tournois": "14 Tournaments",
-                "couleur": "#FEEF66"
+                "couleur": "#FEEF66",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 18,
@@ -1625,7 +1980,9 @@
                 "argent_generé": 54123.00,
                 "nombre_joueurs": "11 Players",
                 "nombre_tournois": "4 Tournaments",
-                "couleur": "#FDBD10"
+                "couleur": "#FDBD10",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 19,
@@ -1634,7 +1991,9 @@
                 "argent_generé": 48900.00,
                 "nombre_joueurs": "14 Players",
                 "nombre_tournois": "3 Tournaments",
-                "couleur": "#134C92"
+                "couleur": "#134C92",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 20,
@@ -1643,7 +2002,9 @@
                 "argent_generé": 45490.44,
                 "nombre_joueurs": "148 Players",
                 "nombre_tournois": "21 Tournaments",
-                "couleur": "#C8933D"
+                "couleur": "#C8933D",
+                "URLImage":"logos/logo.jpg"
+
             }
         ],
 
@@ -1655,7 +2016,9 @@
                 "argent_generé": 4287289.10,
                 "nombre_joueurs": "935 Players",
                 "nombre_tournois": "391 Tournaments",
-                "couleur": "#4AFFFF"
+                "couleur": "#4AFFFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 2,
@@ -1664,7 +2027,9 @@
                 "argent_generé": 4215299.50,
                 "nombre_joueurs": "673 Players",
                 "nombre_tournois": "702 Tournaments",
-                "couleur": "#9BCCFF"
+                "couleur": "#9BCCFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 3,
@@ -1673,7 +2038,9 @@
                 "argent_generé": 2087094.85,
                 "nombre_joueurs": "258 Players",
                 "nombre_tournois": "96 Tournaments",
-                "couleur": "#A82E15"
+                "couleur": "#A82E15",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 4,
@@ -1682,7 +2049,9 @@
                 "argent_generé": 547584.85,
                 "nombre_joueurs": "535 Players",
                 "nombre_tournois": "65 Tournaments",
-                "couleur": "#FBAC18"
+                "couleur": "#FBAC18",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 5,
@@ -1691,7 +2060,9 @@
                 "argent_generé": 361230.36,
                 "nombre_joueurs": "166 Players",
                 "nombre_tournois": "24 Tournaments",
-                "couleur": "#FFFFFF"
+                "couleur": "#FFFFFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 6,
@@ -1700,7 +2071,9 @@
                 "argent_generé": 341962.28,
                 "nombre_joueurs": "313 Players",
                 "nombre_tournois": "63 Tournaments",
-                "couleur": "#A9A92F"
+                "couleur": "#A9A92F",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 7,
@@ -1709,25 +2082,31 @@
                 "argent_generé": 228000.00,
                 "nombre_joueurs": "15 Players",
                 "nombre_tournois": "3 Tournaments",
-                "couleur": "#EED01A"
+                "couleur": "#EED01A",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 8,
-                "jeu": "Counter-Strike: Global Offensive",
+                "jeu": "CS: GO",
                 "lien": "https://www.esportsearnings.com/history/2012/games/245-counter-strike-global-offensive",
                 "argent_generé": 222538.77,
                 "nombre_joueurs": "311 Players",
                 "nombre_tournois": "48 Tournaments",
-                "couleur": "#FBAC18"
+                "couleur": "#FBAC18",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 9,
-                "jeu": "Counter-Strike: Source",
+                "jeu": "CS: Source",
                 "lien": "https://www.esportsearnings.com/history/2012/games/226-counter-strike-source",
                 "argent_generé": 214637.92,
                 "nombre_joueurs": "290 Players",
                 "nombre_tournois": "35 Tournaments",
-                "couleur": "#FBAC18"
+                "couleur": "#FBAC18",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 10,
@@ -1736,16 +2115,20 @@
                 "argent_generé": 205438.37,
                 "nombre_joueurs": "113 Players",
                 "nombre_tournois": "11 Tournaments",
-                "couleur": "#F7E160"
+                "couleur": "#F7E160",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 11,
-                "jeu": "Call of Duty: Modern Warfare 3",
+                "jeu": "CoD MW 3",
                 "lien": "https://www.esportsearnings.com/history/2012/games/258-call-of-duty-modern-warfare-3",
                 "argent_generé": 154800.32,
                 "nombre_joueurs": "187 Players",
                 "nombre_tournois": "40 Tournaments",
-                "couleur": "#7BC42D"
+                "couleur": "#7BC42D",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 12,
@@ -1754,7 +2137,9 @@
                 "argent_generé": 123502.27,
                 "nombre_joueurs": "67 Players",
                 "nombre_tournois": "9 Tournaments",
-                "couleur": "#CED0CD"
+                "couleur": "#CED0CD",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 13,
@@ -1763,7 +2148,9 @@
                 "argent_generé": 117347.60,
                 "nombre_joueurs": "63 Players",
                 "nombre_tournois": "40 Tournaments",
-                "couleur": "#FEEF66"
+                "couleur": "#FEEF66",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 14,
@@ -1772,7 +2159,9 @@
                 "argent_generé": 109124.77,
                 "nombre_joueurs": "59 Players",
                 "nombre_tournois": "32 Tournaments",
-                "couleur": "#9BCCFF"
+                "couleur": "#9BCCFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 15,
@@ -1781,7 +2170,9 @@
                 "argent_generé": 106108.00,
                 "nombre_joueurs": "33 Players",
                 "nombre_tournois": "4 Tournaments",
-                "couleur": "#FBAC18"
+                "couleur": "#FBAC18",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 16,
@@ -1790,7 +2181,9 @@
                 "argent_generé": 101300.00,
                 "nombre_joueurs": "24 Players",
                 "nombre_tournois": "9 Tournaments",
-                "couleur": "#D62821"
+                "couleur": "#D62821",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 17,
@@ -1799,7 +2192,9 @@
                 "argent_generé": 100000.00,
                 "nombre_joueurs": "21 Players",
                 "nombre_tournois": "2 Tournaments",
-                "couleur": "#BC120D"
+                "couleur": "#BC120D",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 18,
@@ -1808,7 +2203,9 @@
                 "argent_generé": 94500.00,
                 "nombre_joueurs": "64 Players",
                 "nombre_tournois": "8 Tournaments",
-                "couleur": "#FDD2B6"
+                "couleur": "#FDD2B6",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 19,
@@ -1817,7 +2214,9 @@
                 "argent_generé": 81703.39,
                 "nombre_joueurs": "35 Players",
                 "nombre_tournois": "59 Tournaments",
-                "couleur": "#F4861E"
+                "couleur": "#F4861E",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 20,
@@ -1826,7 +2225,9 @@
                 "argent_generé": 71284.81,
                 "nombre_joueurs": "30 Players",
                 "nombre_tournois": "56 Tournaments",
-                "couleur": "#BC1501"
+                "couleur": "#BC1501",
+                "URLImage":"logos/logo.jpg"
+
             }
         ],
 
@@ -1838,7 +2239,9 @@
                 "argent_generé": 6240900.65,
                 "nombre_joueurs": "1265 Players",
                 "nombre_tournois": "375 Tournaments",
-                "couleur": "#4AFFF"
+                "couleur": "#4AFFFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 2,
@@ -1847,7 +2250,9 @@
                 "argent_generé": 4548280.98,
                 "nombre_joueurs": "470 Players",
                 "nombre_tournois": "134 Tournaments",
-                "couleur": "#A82E15"
+                "couleur": "#A82E15",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 3,
@@ -1856,25 +2261,31 @@
                 "argent_generé": 3848829.06,
                 "nombre_joueurs": "619 Players",
                 "nombre_tournois": "502 Tournaments",
-                "couleur": "#9BCCFF"
+                "couleur": "#9BCCFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 4,
-                "jeu": "Call of Duty: Black Ops 2",
+                "jeu": "CoD Black Ops 2",
                 "lien": "https://www.esportsearnings.com/history/2013/games/257-call-of-duty-black-ops-2",
                 "argent_generé": 1432141.30,
                 "nombre_joueurs": "181 Players",
                 "nombre_tournois": "48 Tournaments",
-                "couleur": "#7BC42D"
+                "couleur": "#7BC42D",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 5,
-                "jeu": "Counter-Strike: Global Offensive",
+                "jeu": "CS: GO",
                 "lien": "https://www.esportsearnings.com/history/2013/games/245-counter-strike-global-offensive",
                 "argent_generé": 1211869.54,
                 "nombre_joueurs": "1007 Players",
                 "nombre_tournois": "199 Tournaments",
-                "couleur": "#FBAC18"
+                "couleur": "#FBAC18",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 6,
@@ -1883,7 +2294,9 @@
                 "argent_generé": 1000000.00,
                 "nombre_joueurs": "16 Players",
                 "nombre_tournois": "9 Tournaments",
-                "couleur": "#0B81B6"
+                "couleur": "#0B81B6",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 7,
@@ -1892,7 +2305,9 @@
                 "argent_generé": 657399.93,
                 "nombre_joueurs": "327 Players",
                 "nombre_tournois": "101 Tournaments",
-                "couleur": "#A9A92F"
+                "couleur": "#A9A92F",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 8,
@@ -1901,7 +2316,8 @@
                 "argent_generé": 544185.52,
                 "nombre_joueurs": "223 Players",
                 "nombre_tournois": "70 Tournaments",
-                "couleur": "#FFFFFF"
+                "couleur": "#FFFFFF",
+                "URLImage":"logos/logo.jpg"
             },
             {
                 "position": 9,
@@ -1910,7 +2326,9 @@
                 "argent_generé": 441304.55,
                 "nombre_joueurs": "44 Players",
                 "nombre_tournois": "44 Tournaments",
-                "couleur": "#A8FF66"
+                "couleur": "#A8FF66",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 10,
@@ -1919,7 +2337,9 @@
                 "argent_generé": 429000.00,
                 "nombre_joueurs": "64 Players",
                 "nombre_tournois": "7 Tournaments",
-                "couleur": "#CED0CD"
+                "couleur": "#CED0CD",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 11,
@@ -1928,7 +2348,9 @@
                 "argent_generé": 400000.00,
                 "nombre_joueurs": "8 Players",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#083D73"
+                "couleur": "#083D73",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 12,
@@ -1937,7 +2359,9 @@
                 "argent_generé": 371798.76,
                 "nombre_joueurs": "55 Players",
                 "nombre_tournois": "15 Tournaments",
-                "couleur": "#5B98C8"
+                "couleur": "#5B98C8",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 13,
@@ -1946,7 +2370,9 @@
                 "argent_generé": 189000.00,
                 "nombre_joueurs": "12 Players",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#EED01A"
+                "couleur": "#EED01A",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 14,
@@ -1955,7 +2381,9 @@
                 "argent_generé": 142193.60,
                 "nombre_joueurs": "28 Players",
                 "nombre_tournois": "4 Tournaments",
-                "couleur": "#FBAC18"
+                "couleur": "#FBAC18",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 15,
@@ -1964,7 +2392,9 @@
                 "argent_generé": 129658.37,
                 "nombre_joueurs": "69 Players",
                 "nombre_tournois": "32 Tournaments",
-                "couleur": "#BC120D"
+                "couleur": "#BC120D",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 16,
@@ -1973,7 +2403,9 @@
                 "argent_generé": 128929.37,
                 "nombre_joueurs": "101 Players",
                 "nombre_tournois": "97 Tournaments",
-                "couleur": "#FEEF66"
+                "couleur": "#FEEF66",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 17,
@@ -1982,7 +2414,9 @@
                 "argent_generé": 124447.13,
                 "nombre_joueurs": "65 Players",
                 "nombre_tournois": "37 Tournaments",
-                "couleur": "#9BCCFF"
+                "couleur": "#9BCCFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 18,
@@ -1991,7 +2425,9 @@
                 "argent_generé": 116000.00,
                 "nombre_joueurs": "16 Players",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#CE3021"
+                "couleur": "#CE3021",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 19,
@@ -2000,7 +2436,9 @@
                 "argent_generé": 113331.83,
                 "nombre_joueurs": "86 Players",
                 "nombre_tournois": "9 Tournaments",
-                "couleur": "#FDD2B6"
+                "couleur": "#FDD2B6",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 20,
@@ -2009,7 +2447,9 @@
                 "argent_generé": 70000.00,
                 "nombre_joueurs": "1 Player",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#023365"
+                "couleur": "#023365",
+                "URLImage":"logos/logo.jpg"
+
             }
         ],
 
@@ -2021,7 +2461,9 @@
                 "argent_generé": 16608180.59,
                 "nombre_joueurs": "676 Players",
                 "nombre_tournois": "150 Tournaments",
-                "couleur": "#A82E15"
+                "couleur": "#A82E15",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 2,
@@ -2030,7 +2472,9 @@
                 "argent_generé": 8068170.99,
                 "nombre_joueurs": "1678 Players",
                 "nombre_tournois": "429 Tournaments",
-                "couleur": "#4AFFFF"
+                "couleur": "#4AFFFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 3,
@@ -2039,25 +2483,31 @@
                 "argent_generé": 3473756.90,
                 "nombre_joueurs": "500 Players",
                 "nombre_tournois": "611 Tournaments",
-                "couleur": "#9BCCFF"
+                "couleur": "#9BCCFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 4,
-                "jeu": "Counter-Strike: Global Offensive",
+                "jeu": "CS: GO",
                 "lien": "https://www.esportsearnings.com/history/2014/games/245-counter-strike-global-offensive",
                 "argent_generé": 1962515.01,
                 "nombre_joueurs": "1415 Players",
                 "nombre_tournois": "279 Tournaments",
-                "couleur": "#FBAC18"
+                "couleur": "#FBAC18",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 5,
-                "jeu": "Call of Duty: Ghosts",
+                "jeu": "CoD Ghosts",
                 "lien": "https://www.esportsearnings.com/history/2014/games/273-call-of-duty-ghosts",
                 "argent_generé": 1525435.95,
                 "nombre_joueurs": "182 Players",
                 "nombre_tournois": "62 Tournaments",
-                "couleur": "#7BC42D"
+                "couleur": "#7BC42D",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 6,
@@ -2066,7 +2516,9 @@
                 "argent_generé": 1123245.18,
                 "nombre_joueurs": "309 Players",
                 "nombre_tournois": "177 Tournaments",
-                "couleur": "#ACF7FB"
+                "couleur": "#ACF7FB",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 7,
@@ -2075,7 +2527,9 @@
                 "argent_generé": 892436.68,
                 "nombre_joueurs": "65 Players",
                 "nombre_tournois": "7 Tournaments",
-                "couleur": "#CED0CD"
+                "couleur": "#CED0CD",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 8,
@@ -2084,7 +2538,9 @@
                 "argent_generé": 585374.93,
                 "nombre_joueurs": "215 Players",
                 "nombre_tournois": "49 Tournaments",
-                "couleur": "#FFFFFF"
+                "couleur": "#FFFFFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 9,
@@ -2093,7 +2549,9 @@
                 "argent_generé": 542744.26,
                 "nombre_joueurs": "270 Players",
                 "nombre_tournois": "94 Tournaments",
-                "couleur": "#A9A92F"
+                "couleur": "#A9A92F",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 10,
@@ -2102,7 +2560,9 @@
                 "argent_generé": 497909.60,
                 "nombre_joueurs": "81 Players",
                 "nombre_tournois": "10 Tournaments",
-                "couleur": "#FFF672"
+                "couleur": "#FFF672",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 11,
@@ -2111,7 +2571,9 @@
                 "argent_generé": 410000.00,
                 "nombre_joueurs": "24 Players",
                 "nombre_tournois": "3 Tournaments",
-                "couleur": "#EED01A"
+                "couleur": "#EED01A",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 12,
@@ -2120,7 +2582,9 @@
                 "argent_generé": 215181.80,
                 "nombre_joueurs": "47 Players",
                 "nombre_tournois": "29 Tournaments",
-                "couleur": "#FFF672"
+                "couleur": "#FFF672",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 13,
@@ -2129,7 +2593,9 @@
                 "argent_generé": 179958.75,
                 "nombre_joueurs": "123 Players",
                 "nombre_tournois": "12 Tournaments",
-                "couleur": "#FDD2B6"
+                "couleur": "#FDD2B6",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 14,
@@ -2138,7 +2604,9 @@
                 "argent_generé": 168394.13,
                 "nombre_joueurs": "364 Players",
                 "nombre_tournois": "270 Tournaments",
-                "couleur": "#FFF672"
+                "couleur": "#FFF672",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 15,
@@ -2147,7 +2615,9 @@
                 "argent_generé": 162631.79,
                 "nombre_joueurs": "96 Players",
                 "nombre_tournois": "79 Tournaments",
-                "couleur": "#FEEF66"
+                "couleur": "#FEEF66",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 16,
@@ -2156,7 +2626,9 @@
                 "argent_generé": 139063.53,
                 "nombre_joueurs": "42 Players",
                 "nombre_tournois": "19 Tournaments",
-                "couleur": "#9EE525"
+                "couleur": "#9EE525",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 17,
@@ -2165,16 +2637,20 @@
                 "argent_generé": 128323.18,
                 "nombre_joueurs": "74 Players",
                 "nombre_tournois": "67 Tournaments",
-                "couleur": "#DE0728"
+                "couleur": "#DE0728",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 18,
-                "jeu": "Call of Duty: Advanced Warfare",
+                "jeu": "CoD Advanced Warfare",
                 "lien": "https://www.esportsearnings.com/history/2014/games/364-call-of-duty-advanced-warfare",
                 "argent_generé": 126947.81,
                 "nombre_joueurs": "127 Players",
                 "nombre_tournois": "40 Tournaments",
-                "couleur": "#7BC42D"
+                "couleur": "#7BC42D",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 19,
@@ -2183,7 +2659,9 @@
                 "argent_generé": 116000.00,
                 "nombre_joueurs": "16 Players",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#CE3021"
+                "couleur": "#CE3021",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 20,
@@ -2192,7 +2670,9 @@
                 "argent_generé": 106712.00,
                 "nombre_joueurs": "33 Players",
                 "nombre_tournois": "2 Tournaments",
-                "couleur": "#FDBD10"
+                "couleur": "#FDBD10",
+                "URLImage":"logos/logo.jpg"
+
             }
         ],
 
@@ -2204,7 +2684,9 @@
                 "argent_generé": 31036820.46,
                 "nombre_joueurs": "982 Players",
                 "nombre_tournois": "227 Tournaments",
-                "couleur": "#A82E15"
+                "couleur": "#A82E15",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 2,
@@ -2213,16 +2695,20 @@
                 "argent_generé": 7719111.53,
                 "nombre_joueurs": "1943 Players",
                 "nombre_tournois": "311 Tournaments",
-                "couleur": "#4AFFFF"
+                "couleur": "#4AFFFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 3,
-                "jeu": "Counter-Strike: Global Offensive",
+                "jeu": "CS: GO",
                 "lien": "https://www.esportsearnings.com/history/2015/games/245-counter-strike-global-offensive",
                 "argent_generé": 6297500.42,
                 "nombre_joueurs": "3038 Players",
                 "nombre_tournois": "721 Tournaments",
-                "couleur": "#FBAC18"
+                "couleur": "#FBAC18",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 4,
@@ -2231,7 +2717,9 @@
                 "argent_generé": 3709088.73,
                 "nombre_joueurs": "252 Players",
                 "nombre_tournois": "42 Tournaments",
-                "couleur": "#FFF672"
+                "couleur": "#FFF672",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 5,
@@ -2240,16 +2728,20 @@
                 "argent_generé": 3017759.24,
                 "nombre_joueurs": "501 Players",
                 "nombre_tournois": "690 Tournaments",
-                "couleur": "#9BCCFF"
+                "couleur": "#9BCCFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 6,
-                "jeu": "Call of Duty: Advanced Warfare",
+                "jeu": "CoD Advanced Warfare",
                 "lien": "https://www.esportsearnings.com/history/2015/games/364-call-of-duty-advanced-warfare",
                 "argent_generé": 2484861.12,
                 "nombre_joueurs": "758 Players",
                 "nombre_tournois": "365 Tournaments",
-                "couleur": "#7BC42D"
+                "couleur": "#7BC42D",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 7,
@@ -2258,7 +2750,9 @@
                 "argent_generé": 2456969.68,
                 "nombre_joueurs": "666 Players",
                 "nombre_tournois": "289 Tournaments",
-                "couleur": "#546FED"
+                "couleur": "#546FED",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 8,
@@ -2267,7 +2761,10 @@
                 "argent_generé": 2372583.73,
                 "nombre_joueurs": "563 Players",
                 "nombre_tournois": "251 Tournaments",
-                "couleur": "#ACF7FB"
+                "couleur": "#ACF7FB",
+                "URLImage":"logos/logo.jpg"
+                
+
             },
             {
                 "position": 9,
@@ -2276,7 +2773,9 @@
                 "argent_generé": 1203054.52,
                 "nombre_joueurs": "246 Players",
                 "nombre_tournois": "20 Tournaments",
-                "couleur": "#CED0CD"
+                "couleur": "#CED0CD",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 10,
@@ -2285,7 +2784,9 @@
                 "argent_generé": 897657.68,
                 "nombre_joueurs": "182 Players",
                 "nombre_tournois": "76 Tournaments",
-                "couleur": "#FFFFFF"
+                "couleur": "#FFFFFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 11,
@@ -2294,7 +2795,9 @@
                 "argent_generé": 810839.41,
                 "nombre_joueurs": "254 Players",
                 "nombre_tournois": "76 Tournaments",
-                "couleur": "#A9A92F"
+                "couleur": "#A9A92F",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 12,
@@ -2303,7 +2806,9 @@
                 "argent_generé": 642578.64,
                 "nombre_joueurs": "148 Players",
                 "nombre_tournois": "123 Tournaments",
-                "couleur": "#FEEF66"
+                "couleur": "#FEEF66",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 13,
@@ -2312,7 +2817,9 @@
                 "argent_generé": 514706.42,
                 "nombre_joueurs": "557 Players",
                 "nombre_tournois": "533 Tournaments",
-                "couleur": "#E20501"
+                "couleur": "#E20501",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 14,
@@ -2321,7 +2828,9 @@
                 "argent_generé": 470948.70,
                 "nombre_joueurs": "82 Players",
                 "nombre_tournois": "20 Tournaments",
-                "couleur": "#EED01A"
+                "couleur": "#EED01A",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 15,
@@ -2330,7 +2839,9 @@
                 "argent_generé": 378667.45,
                 "nombre_joueurs": "81 Players",
                 "nombre_tournois": "13 Tournaments",
-                "couleur": "#5B98C8"
+                "couleur": "#5B98C8",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 16,
@@ -2339,7 +2850,9 @@
                 "argent_generé": 358301.71,
                 "nombre_joueurs": "28 Players",
                 "nombre_tournois": "6 Tournaments",
-                "couleur": "#A8FF66"
+                "couleur": "#A8FF66",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 17,
@@ -2348,7 +2861,9 @@
                 "argent_generé": 274699.63,
                 "nombre_joueurs": "478 Players",
                 "nombre_tournois": "293 Tournaments",
-                "couleur": "#E20501"
+                "couleur": "#E20501",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 18,
@@ -2357,7 +2872,9 @@
                 "argent_generé": 232922.43,
                 "nombre_joueurs": "65 Players",
                 "nombre_tournois": "40 Tournaments",
-                "couleur": "#D62821"
+                "couleur": "#D62821",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 19,
@@ -2366,7 +2883,9 @@
                 "argent_generé": 220200.00,
                 "nombre_joueurs": "28 Players",
                 "nombre_tournois": "15 Tournaments",
-                "couleur": "#9EE525"
+                "couleur": "#9EE525",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 20,
@@ -2375,7 +2894,9 @@
                 "argent_generé": 219781.69,
                 "nombre_joueurs": "56 Players",
                 "nombre_tournois": "58 Tournaments",
-                "couleur": "#F4861E"
+                "couleur": "#F4861E",
+                "URLImage":"logos/logo.jpg"
+
             }
         ],
 
@@ -2387,16 +2908,20 @@
                 "argent_generé": 37464037.33,
                 "nombre_joueurs": "896 Players",
                 "nombre_tournois": "153 Tournaments",
-                "couleur": "#A82E15"
+                "couleur": "#A82E15",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 2,
-                "jeu": "Counter-Strike: Global Offensive",
+                "jeu": "CS: GO",
                 "lien": "https://www.esportsearnings.com/history/2016/games/245-counter-strike-global-offensive",
                 "argent_generé": 17268045.48,
                 "nombre_joueurs": "4408 Players",
                 "nombre_tournois": "863 Tournaments",
-                "couleur": "#FBAC18"
+                "couleur": "#FBAC18",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 3,
@@ -2405,7 +2930,9 @@
                 "argent_generé": 10519032.01,
                 "nombre_joueurs": "1664 Players",
                 "nombre_tournois": "182 Tournaments",
-                "couleur": "#4AFFFF"
+                "couleur": "#4AFFFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 4,
@@ -2414,16 +2941,20 @@
                 "argent_generé": 4664349.10,
                 "nombre_joueurs": "394 Players",
                 "nombre_tournois": "69 Tournaments",
-                "couleur": "#546FED"
+                "couleur": "#546FED",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 5,
-                "jeu": "Call of Duty: Black Ops III",
+                "jeu": "CoD Black Ops III",
                 "lien": "https://www.esportsearnings.com/history/2016/games/425-call-of-duty-black-ops-iii",
                 "argent_generé": 3862185.84,
                 "nombre_joueurs": "371 Players",
                 "nombre_tournois": "55 Tournaments",
-                "couleur": "#7BC42D"
+                "couleur": "#7BC42D",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 6,
@@ -2432,7 +2963,9 @@
                 "argent_generé": 3485977.29,
                 "nombre_joueurs": "645 Players",
                 "nombre_tournois": "143 Tournaments",
-                "couleur": "#ACF7FB"
+                "couleur": "#ACF7FB",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 7,
@@ -2441,7 +2974,9 @@
                 "argent_generé": 3412490.03,
                 "nombre_joueurs": "176 Players",
                 "nombre_tournois": "36 Tournaments",
-                "couleur": "#5B98C8"
+                "couleur": "#5B98C8",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 8,
@@ -2450,7 +2985,9 @@
                 "argent_generé": 3182718.35,
                 "nombre_joueurs": "413 Players",
                 "nombre_tournois": "650 Tournaments",
-                "couleur": "#9BCCFF"
+                "couleur": "#9BCCFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 9,
@@ -2459,7 +2996,9 @@
                 "argent_generé": 2018742.37,
                 "nombre_joueurs": "1240 Players",
                 "nombre_tournois": "268 Tournaments",
-                "couleur": "#E26120"
+                "couleur": "#E26120",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 10,
@@ -2468,7 +3007,9 @@
                 "argent_generé": 1638242.04,
                 "nombre_joueurs": "316 Players",
                 "nombre_tournois": "21 Tournaments",
-                "couleur": "#FFF672"
+                "couleur": "#FFF672",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 11,
@@ -2477,7 +3018,9 @@
                 "argent_generé": 1453157.96,
                 "nombre_joueurs": "206 Players",
                 "nombre_tournois": "22 Tournaments",
-                "couleur": "#FFFFFF"
+                "couleur": "#FFFFFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 12,
@@ -2486,7 +3029,9 @@
                 "argent_generé": 885528.88,
                 "nombre_joueurs": "143 Players",
                 "nombre_tournois": "63 Tournaments",
-                "couleur": "#FEEF66"
+                "couleur": "#FEEF66",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 13,
@@ -2495,7 +3040,9 @@
                 "argent_generé": 835082.40,
                 "nombre_joueurs": "54 Players",
                 "nombre_tournois": "3 Tournaments",
-                "couleur": "#A8FF66"
+                "couleur": "#A8FF66",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 14,
@@ -2504,7 +3051,9 @@
                 "argent_generé": 674499.14,
                 "nombre_joueurs": "757 Players",
                 "nombre_tournois": "750 Tournaments",
-                "couleur": "#E20501"
+                "couleur": "#E20501",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 15,
@@ -2513,7 +3062,9 @@
                 "argent_generé": 508705.76,
                 "nombre_joueurs": "378 Players",
                 "nombre_tournois": "388 Tournaments",
-                "couleur": "#096AD1"
+                "couleur": "#096AD1",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 16,
@@ -2522,7 +3073,9 @@
                 "argent_generé": 501285.00,
                 "nombre_joueurs": "77 Players",
                 "nombre_tournois": "16 Tournaments",
-                "couleur": "#E52818"
+                "couleur": "#E52818",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 17,
@@ -2531,7 +3084,9 @@
                 "argent_generé": 482000.00,
                 "nombre_joueurs": "38 Players",
                 "nombre_tournois": "3 Tournaments",
-                "couleur": "#CED0CD"
+                "couleur": "#CED0CD",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 18,
@@ -2540,7 +3095,9 @@
                 "argent_generé": 453000.00,
                 "nombre_joueurs": "72 Players",
                 "nombre_tournois": "4 Tournaments",
-                "couleur": "#EED01A"
+                "couleur": "#EED01A",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 19,
@@ -2549,7 +3106,9 @@
                 "argent_generé": 429999.07,
                 "nombre_joueurs": "577 Players",
                 "nombre_tournois": "283 Tournaments",
-                "couleur": "#E20501"
+                "couleur": "#E20501",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 20,
@@ -2558,7 +3117,9 @@
                 "argent_generé": 424628.65,
                 "nombre_joueurs": "165 Players",
                 "nombre_tournois": "21 Tournaments",
-                "couleur": "#A40606"
+                "couleur": "#A40606",
+                "URLImage":"logos/logo.jpg"
+
             }
         ],
 
@@ -2570,16 +3131,20 @@
                 "argent_generé": 38074599.32,
                 "nombre_joueurs": "1057 Players",
                 "nombre_tournois": "167 Tournaments",
-                "couleur": "#A82E15"
+                "couleur": "#A82E15",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 2,
-                "jeu": "Counter-Strike: Global Offensive",
+                "jeu": "CS: GO",
                 "lien": "https://www.esportsearnings.com/history/2017/games/245-counter-strike-global-offensive",
                 "argent_generé": 19295990.90,
                 "nombre_joueurs": "4838 Players",
                 "nombre_tournois": "915 Tournaments",
-                "couleur": "#FBAC18"
+                "couleur": "#FBAC18",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 3,
@@ -2588,7 +3153,9 @@
                 "argent_generé": 12261870.43,
                 "nombre_joueurs": "1973 Players",
                 "nombre_tournois": "193 Tournaments",
-                "couleur": "#4AFFF"
+                "couleur": "#4AFFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 4,
@@ -2597,16 +3164,20 @@
                 "argent_generé": 5444449.54,
                 "nombre_joueurs": "441 Players",
                 "nombre_tournois": "41 Tournaments",
-                "couleur": "#546FED"
+                "couleur": "#546FED",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 5,
-                "jeu": "Call of Duty: Infinite Warfare",
+                "jeu": "CoD Infinite Warfare",
                 "lien": "https://www.esportsearnings.com/history/2017/games/455-call-of-duty-infinite-warfare",
                 "argent_generé": 4041684.07,
                 "nombre_joueurs": "323 Players",
                 "nombre_tournois": "80 Tournaments",
-                "couleur": "#7BC42D"
+                "couleur": "#7BC42D",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 6,
@@ -2615,7 +3186,9 @@
                 "argent_generé": 3489158.01,
                 "nombre_joueurs": "1608 Players",
                 "nombre_tournois": "285 Tournaments",
-                "couleur": "#E26120"
+                "couleur": "#E26120",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 7,
@@ -2624,7 +3197,9 @@
                 "argent_generé": 3485766.58,
                 "nombre_joueurs": "705 Players",
                 "nombre_tournois": "131 Tournaments",
-                "couleur": "#ACF7FB"
+                "couleur": "#ACF7FB",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 8,
@@ -2633,7 +3208,9 @@
                 "argent_generé": 3416343.85,
                 "nombre_joueurs": "391 Players",
                 "nombre_tournois": "654 Tournaments",
-                "couleur": "#9BCCFF"
+                "couleur": "#9BCCFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 9,
@@ -2642,7 +3219,9 @@
                 "argent_generé": 2197021.33,
                 "nombre_joueurs": "360 Players",
                 "nombre_tournois": "15 Tournaments",
-                "couleur": "#4B52A0"
+                "couleur": "#4B52A0",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 10,
@@ -2651,7 +3230,9 @@
                 "argent_generé": 1907530.84,
                 "nombre_joueurs": "226 Players",
                 "nombre_tournois": "38 Tournaments",
-                "couleur": "#FFFFFF"
+                "couleur": "#FFFFFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 11,
@@ -2660,7 +3241,9 @@
                 "argent_generé": 1748000.00,
                 "nombre_joueurs": "111 Players",
                 "nombre_tournois": "14 Tournaments",
-                "couleur": "#5B98C8"
+                "couleur": "#5B98C8",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 12,
@@ -2669,7 +3252,9 @@
                 "argent_generé": 1592710.65,
                 "nombre_joueurs": "474 Players",
                 "nombre_tournois": "412 Tournaments",
-                "couleur": "#096AD1"
+                "couleur": "#096AD1",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 13,
@@ -2678,7 +3263,9 @@
                 "argent_generé": 1567900.00,
                 "nombre_joueurs": "143 Players",
                 "nombre_tournois": "8 Tournaments",
-                "couleur": "#FFF672"
+                "couleur": "#FFF672",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 14,
@@ -2687,7 +3274,9 @@
                 "argent_generé": 1551550.00,
                 "nombre_joueurs": "88 Players",
                 "nombre_tournois": "8 Tournaments",
-                "couleur": "#CC0D06"
+                "couleur": "#CC0D06",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 15,
@@ -2696,7 +3285,9 @@
                 "argent_generé": 1482852.31,
                 "nombre_joueurs": "166 Players",
                 "nombre_tournois": "72 Tournaments",
-                "couleur": "#BC1501"
+                "couleur": "#BC1501",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 16,
@@ -2705,7 +3296,9 @@
                 "argent_generé": 1452306.64,
                 "nombre_joueurs": "130 Players",
                 "nombre_tournois": "44 Tournaments",
-                "couleur": "#A8FF66"
+                "couleur": "#A8FF66",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 17,
@@ -2714,7 +3307,9 @@
                 "argent_generé": 1315628.06,
                 "nombre_joueurs": "160 Players",
                 "nombre_tournois": "57 Tournaments",
-                "couleur": "#FEEF66"
+                "couleur": "#FEEF66",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 18,
@@ -2723,25 +3318,31 @@
                 "argent_generé": 1094500.00,
                 "nombre_joueurs": "100 Players",
                 "nombre_tournois": "77 Tournaments",
-                "couleur": "#E52818"
+                "couleur": "#E52818",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 19,
-                "jeu": "PLAYERUNKNOWN’S BATTLEGROUNDS",
+                "jeu": "PUBG",
                 "lien": "https://www.esportsearnings.com/history/2017/games/504-playerunknowns-battlegrounds",
                 "argent_generé": 1007803.60,
                 "nombre_joueurs": "193 Players",
                 "nombre_tournois": "14 Tournaments",
-                "couleur": "#635038"
+                "couleur": "#635038",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 20,
-                "jeu": "Rainbow Six Siege",
+                "jeu": "R6 Siege",
                 "lien": "https://www.esportsearnings.com/history/2017/games/439-rainbow-six-siege",
                 "argent_generé": 1007150.04,
                 "nombre_joueurs": "397 Players",
                 "nombre_tournois": "34 Tournaments",
-                "couleur": "#02508D"
+                "couleur": "#02508D",
+                "URLImage":"logos/logo.jpg"
+
             }
         ],
 
@@ -2753,16 +3354,20 @@
                 "argent_generé": 41536790.86,
                 "nombre_joueurs": "1179 Players",
                 "nombre_tournois": "181 Tournaments",
-                "couleur": "#A82E15"
+                "couleur": "#A82E15",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 2,
-                "jeu": "Counter-Strike: Global Offensive",
+                "jeu": "CS: GO",
                 "lien": "https://www.esportsearnings.com/history/2018/games/245-counter-strike-global-offensive",
                 "argent_generé": 23319746.08,
                 "nombre_joueurs": "4686 Players",
                 "nombre_tournois": "1024 Tournaments",
-                "couleur": "#FBAC18"
+                "couleur": "#FBAC18",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 3,
@@ -2771,7 +3376,9 @@
                 "argent_generé": 19933737.00,
                 "nombre_joueurs": "1444 Players",
                 "nombre_tournois": "179 Tournaments",
-                "couleur": "#B719EC"
+                "couleur": "#B719EC",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 4,
@@ -2780,16 +3387,20 @@
                 "argent_generé": 14688784.49,
                 "nombre_joueurs": "1973 Players",
                 "nombre_tournois": "194 Tournaments",
-                "couleur": "#4AFFFF"
+                "couleur": "#4AFFFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 5,
-                "jeu": "PLAYERUNKNOWN’S BATTLEGROUNDS",
+                "jeu": "PUBG",
                 "lien": "https://www.esportsearnings.com/history/2018/games/504-playerunknowns-battlegrounds",
                 "argent_generé": 8455745.36,
                 "nombre_joueurs": "1607 Players",
                 "nombre_tournois": "135 Tournaments",
-                "couleur": "#635038"
+                "couleur": "#635038",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 6,
@@ -2798,7 +3409,9 @@
                 "argent_generé": 7066038.18,
                 "nombre_joueurs": "663 Players",
                 "nombre_tournois": "29 Tournaments",
-                "couleur": "#4B52A0"
+                "couleur": "#4B52A0",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 7,
@@ -2807,7 +3420,9 @@
                 "argent_generé": 6615546.33,
                 "nombre_joueurs": "1547 Players",
                 "nombre_tournois": "120 Tournaments",
-                "couleur": "#E26120"
+                "couleur": "#E26120",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 8,
@@ -2816,7 +3431,9 @@
                 "argent_generé": 5277279.76,
                 "nombre_joueurs": "368 Players",
                 "nombre_tournois": "34 Tournaments",
-                "couleur": "#546FED"
+                "couleur": "#546FED",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 9,
@@ -2825,16 +3442,20 @@
                 "argent_generé": 4741874.75,
                 "nombre_joueurs": "875 Players",
                 "nombre_tournois": "152 Tournaments",
-                "couleur": "#ACF7FB"
+                "couleur": "#ACF7FB",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 10,
-                "jeu": "Call of Duty: WWII",
+                "jeu": "CoD WWII",
                 "lien": "https://www.esportsearnings.com/history/2018/games/490-call-of-duty-wwii",
                 "argent_generé": 4302666.69,
                 "nombre_joueurs": "270 Players",
                 "nombre_tournois": "51 Tournaments",
-                "couleur": "#7BC42D"
+                "couleur": "#7BC42D",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 11,
@@ -2843,7 +3464,9 @@
                 "argent_generé": 3979177.66,
                 "nombre_joueurs": "353 Players",
                 "nombre_tournois": "458 Tournaments",
-                "couleur": "#9BCCFF"
+                "couleur": "#9BCCFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 12,
@@ -2852,7 +3475,9 @@
                 "argent_generé": 2538049.60,
                 "nombre_joueurs": "662 Players",
                 "nombre_tournois": "319 Tournaments",
-                "couleur": "#096AD1"
+                "couleur": "#096AD1",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 13,
@@ -2861,16 +3486,20 @@
                 "argent_generé": 2189152.14,
                 "nombre_joueurs": "223 Players",
                 "nombre_tournois": "40 Tournaments",
-                "couleur": "#A8FF66"
+                "couleur": "#A8FF66",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 14,
-                "jeu": "Rainbow Six Siege",
+                "jeu": "R6 Siege",
                 "lien": "https://www.esportsearnings.com/history/2018/games/439-rainbow-six-siege",
                 "argent_generé": 2047522.85, 
                 "nombre_joueurs": "689 Players",
                 "nombre_tournois": "76 Tournaments",
-                "couleur": "#02508D"
+                "couleur": "#02508D",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 15,
@@ -2879,7 +3508,9 @@
                 "argent_generé": 1938750.00,
                 "nombre_joueurs": "107 Players",
                 "nombre_tournois": "50 Tournaments",
-                "couleur": "#5B98C8"
+                "couleur": "#5B98C8",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 16,
@@ -2888,7 +3519,9 @@
                 "argent_generé": 1813205.86,
                 "nombre_joueurs": "216 Players",
                 "nombre_tournois": "29 Tournaments",
-                "couleur": "#FFFFFF"
+                "couleur": "#FFFFFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 17,
@@ -2897,7 +3530,9 @@
                 "argent_generé": 1407978.67,
                 "nombre_joueurs": "141 Players",
                 "nombre_tournois": "51 Tournaments",
-                "couleur": "#FEEF66"
+                "couleur": "#FEEF66",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 18,
@@ -2906,7 +3541,9 @@
                 "argent_generé": 1310000.00,
                 "nombre_joueurs": "24 Players",
                 "nombre_tournois": "1 Tournament",
-                "couleur": "#156881"
+                "couleur": "#156881",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 19,
@@ -2915,7 +3552,9 @@
                 "argent_generé": 1183500.00,
                 "nombre_joueurs": "139 Players",
                 "nombre_tournois": "11 Tournaments",
-                "couleur": "#FFF672"
+                "couleur": "#FFF672",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 20,
@@ -2924,7 +3563,9 @@
                 "argent_generé": 1040000.00,
                 "nombre_joueurs": "98 Players",
                 "nombre_tournois": "43 Tournaments",
-                "couleur": "#E52818"
+                "couleur": "#E52818",
+                "URLImage":"logos/logo.jpg"
+
             }
         ],
 
@@ -2936,7 +3577,9 @@
                 "argent_generé": 80591279.01,
                 "nombre_joueurs": "3417 Players",
                 "nombre_tournois": "487 Tournaments",
-                "couleur": "#B719EC"
+                "couleur": "#B719EC",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 2,
@@ -2945,25 +3588,31 @@
                 "argent_generé": 47087217.00,
                 "nombre_joueurs": "1415 Players",
                 "nombre_tournois": "232 Tournaments",
-                "couleur": "#A82E15"
+                "couleur": "#A82E15",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 3,
-                "jeu": "Counter-Strike: Global Offensive",
+                "jeu": "CS: GO",
                 "lien": "https://www.esportsearnings.com/history/2019/games/245-counter-strike-global-offensive",
                 "argent_generé": 22302043.71,
                 "nombre_joueurs": "4013 Players",
                 "nombre_tournois": "955 Tournaments",
-                "couleur": "#FBAC18"
+                "couleur": "#FBAC18",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 4,
-                "jeu": "PLAYERUNKNOWN’S BATTLEGROUNDS",
+                "jeu": "PUBG",
                 "lien": "https://www.esportsearnings.com/history/2019/games/504-playerunknowns-battlegrounds",
                 "argent_generé": 11603431.56,
                 "nombre_joueurs": "1705 Players",
                 "nombre_tournois": "148 Tournaments",
-                "couleur": "#635038"
+                "couleur": "#635038",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 5,
@@ -2972,7 +3621,9 @@
                 "argent_generé": 10708016.12,
                 "nombre_joueurs": "597 Players",
                 "nombre_tournois": "28 Tournaments",
-                "couleur": "#4B52A0"
+                "couleur": "#4B52A0",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 6,
@@ -2981,7 +3632,9 @@
                 "argent_generé": 10412069.35,
                 "nombre_joueurs": "2176 Players",
                 "nombre_tournois": "210 Tournaments",
-                "couleur": "#4AFFFF"
+                "couleur": "#4AFFFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 7,
@@ -2990,25 +3643,31 @@
                 "argent_generé": 9593646.85,
                 "nombre_joueurs": "1258 Players",
                 "nombre_tournois": "62 Tournaments",
-                "couleur": "#E26120"
+                "couleur": "#E26120",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 8,
-                "jeu": "Call of Duty: Black Ops 4",
+                "jeu": "CoD Black Ops 4",
                 "lien": "https://www.esportsearnings.com/history/2019/games/549-call-of-duty-black-ops-4",
                 "argent_generé": 6391689.00,
                 "nombre_joueurs": "343 Players",
                 "nombre_tournois": "45 Tournaments",
-                "couleur": "#7BC42D"
+                "couleur": "#7BC42D",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 9,
-                "jeu": "Rainbow Six Siege",
+                "jeu": "R6 Siege",
                 "lien": "https://www.esportsearnings.com/history/2019/games/439-rainbow-six-siege",
                 "argent_generé": 5151238.68,
                 "nombre_joueurs": "1190 Players",
                 "nombre_tournois": "122 Tournaments",
-                "couleur": "#02508D"
+                "couleur": "#02508D",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 10,
@@ -3017,16 +3676,20 @@
                 "argent_generé": 4506089.61,
                 "nombre_joueurs": "649 Players",
                 "nombre_tournois": "108 Tournaments",
-                "couleur": "#ACF7FB"
+                "couleur": "#ACF7FB",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 11,
-                "jeu": "PLAYERUNKNOWN’S BATTLEGROUNDS Mobile",
+                "jeu": "PUBG Mobile",
                 "lien": "https://www.esportsearnings.com/history/2019/games/554-playerunknowns-battlegrounds-mobile",
                 "argent_generé": 4201598.78,
                 "nombre_joueurs": "923 Players",
                 "nombre_tournois": "34 Tournaments",
-                "couleur": "#635038"
+                "couleur": "#635038",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 12,
@@ -3035,7 +3698,9 @@
                 "argent_generé": 3310015.60,
                 "nombre_joueurs": "835 Players",
                 "nombre_tournois": "361 Tournaments",
-                "couleur": "#096AD1"
+                "couleur": "#096AD1",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 13,
@@ -3044,7 +3709,9 @@
                 "argent_generé": 3130147.59,
                 "nombre_joueurs": "396 Players",
                 "nombre_tournois": "377 Tournaments",
-                "couleur": "#9BCCFF"
+                "couleur": "#9BCCFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 14,
@@ -3053,7 +3720,9 @@
                 "argent_generé": 2998000.00,
                 "nombre_joueurs": "174 Players",
                 "nombre_tournois": "37 Tournaments",
-                "couleur": "#CE3021"
+                "couleur": "#CE3021",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 15,
@@ -3062,7 +3731,9 @@
                 "argent_generé": 2863382.64,
                 "nombre_joueurs": "686 Players",
                 "nombre_tournois": "80 Tournaments",
-                "couleur": "#A1373C"
+                "couleur": "#A1373C",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 16,
@@ -3071,7 +3742,9 @@
                 "argent_generé": 2758191.44,
                 "nombre_joueurs": "279 Players",
                 "nombre_tournois": "32 Tournaments",
-                "couleur": "#A8FF66"
+                "couleur": "#A8FF66",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 17,
@@ -3080,7 +3753,9 @@
                 "argent_generé": 1761477.09,
                 "nombre_joueurs": "184 Players",
                 "nombre_tournois": "35 Tournaments",
-                "couleur": "#156881"
+                "couleur": "#156881",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 18,
@@ -3089,7 +3764,9 @@
                 "argent_generé": 1504324.36,
                 "nombre_joueurs": "144 Players",
                 "nombre_tournois": "12 Tournaments",
-                "couleur": "#FFFFFF"
+                "couleur": "#FFFFFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 19,
@@ -3098,28 +3775,34 @@
                 "argent_generé": 1455727.00,
                 "nombre_joueurs": "87 Players",
                 "nombre_tournois": "21 Tournaments",
-                "couleur": "#F7E72A"
+                "couleur": "#F7E72A",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 20,
-                "jeu": "Mobile Legends: Bang Bang",
+                "jeu": "ML: Bang Bang",
                 "lien": "https://www.esportsearnings.com/history/2019/games/531-mobile-legends-bang-bang",
                 "argent_generé": 1449015.67,
                 "nombre_joueurs": "390 Players",
                 "nombre_tournois": "15 Tournaments",
-                "couleur": "#2B5F9D"
+                "couleur": "#2B5F9D",
+                "URLImage":"logos/logo.jpg"
+
             }
         ],
 
         "2020": [
             {
                 "position": 1,
-                "jeu": "Counter-Strike: Global Offensive",
+                "jeu": "CS: GO",
                 "lien": "https://www.esportsearnings.com/history/2020/games/245-counter-strike-global-offensive",
                 "argent_generé": 16079293.07,
                 "nombre_joueurs": "3285 Players",
                 "nombre_tournois": "627 Tournaments",
-                "couleur": "#FBAC18"
+                "couleur": "#FBAC18",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 2,
@@ -3128,7 +3811,9 @@
                 "argent_generé": 15389208.74,
                 "nombre_joueurs": "2436 Players",
                 "nombre_tournois": "327 Tournaments",
-                "couleur": "#B719EC"
+                "couleur": "#B719EC",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 3,
@@ -3137,7 +3822,9 @@
                 "argent_generé": 10195179.42,
                 "nombre_joueurs": "426 Players",
                 "nombre_tournois": "22 Tournaments",
-                "couleur": "#4B52A0"
+                "couleur": "#4B52A0",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 4,
@@ -3146,16 +3833,20 @@
                 "argent_generé": 10126576.47,
                 "nombre_joueurs": "1096 Players",
                 "nombre_tournois": "174 Tournaments",
-                "couleur": "#A82E15"
+                "couleur": "#A82E15",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 5,
-                "jeu": "PLAYERUNKNOWN’S BATTLEGROUNDS Mobile",
+                "jeu": "PUBG Mobile",
                 "lien": "https://www.esportsearnings.com/history/2020/games/554-playerunknowns-battlegrounds-mobile",
                 "argent_generé": 8907777.68,
                 "nombre_joueurs": "1171 Players",
                 "nombre_tournois": "39 Tournaments",
-                "couleur": "#635038"
+                "couleur": "#635038",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 6,
@@ -3164,16 +3855,20 @@
                 "argent_generé": 8703068.97,
                 "nombre_joueurs": "1920 Players",
                 "nombre_tournois": "120 Tournaments",
-                "couleur": "#4AFFFF"
+                "couleur": "#4AFFFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 7,
-                "jeu": "Call of Duty: Modern Warfare",
+                "jeu": "CoD MW",
                 "lien": "https://www.esportsearnings.com/history/2020/games/626-call-of-duty-modern-warfare",
                 "argent_generé": 7152172.00,
                 "nombre_joueurs": "348 Players",
                 "nombre_tournois": "71 Tournaments",
-                "couleur": "#7BC42D"
+                "couleur": "#7BC42D",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 8,
@@ -3182,25 +3877,31 @@
                 "argent_generé": 6853521.00,
                 "nombre_joueurs": "749 Players",
                 "nombre_tournois": "40 Tournaments",
-                "couleur": "#E26120"
+                "couleur": "#E26120",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 9,
-                "jeu": "PLAYERUNKNOWN’S BATTLEGROUNDS",
+                "jeu": "PUBG",
                 "lien": "https://www.esportsearnings.com/history/2020/games/504-playerunknowns-battlegrounds",
                 "argent_generé": 6735110.94,
                 "nombre_joueurs": "1293 Players",
                 "nombre_tournois": "122 Tournaments",
-                "couleur": "#635038"
+                "couleur": "#635038",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 10,
-                "jeu": "Rainbow Six Siege",
+                "jeu": "R6 Siege",
                 "lien": "https://www.esportsearnings.com/history/2020/games/439-rainbow-six-siege",
                 "argent_generé": 6666964.75,
                 "nombre_joueurs": "1150 Players",
                 "nombre_tournois": "100 Tournaments",
-                "couleur": "#02508D"
+                "couleur": "#02508D",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 11,
@@ -3209,7 +3910,9 @@
                 "argent_generé": 4377979.49,
                 "nombre_joueurs": "1262 Players",
                 "nombre_tournois": "612 Tournaments",
-                "couleur": "#096AD1"
+                "couleur": "#096AD1",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 12,
@@ -3218,16 +3921,20 @@
                 "argent_generé": 4281155.74,
                 "nombre_joueurs": "473 Players",
                 "nombre_tournois": "59 Tournaments",
-                "couleur": "#ACF7FB"
+                "couleur": "#ACF7FB",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 13,
-                "jeu": "Call of Duty: Warzone",
+                "jeu": "CoD Warzone",
                 "lien": "https://www.esportsearnings.com/history/2020/games/648-call-of-duty-warzone",
                 "argent_generé": 2826407.12,
                 "nombre_joueurs": "610 Players",
                 "nombre_tournois": "106 Tournaments",
-                "couleur": "#7BC42D"
+                "couleur": "#7BC42D",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 14,
@@ -3236,7 +3943,9 @@
                 "argent_generé": 2539917.95,
                 "nombre_joueurs": "553 Players",
                 "nombre_tournois": "20 Tournaments",
-                "couleur": "#E0A740"
+                "couleur": "#E0A740",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 15,
@@ -3245,7 +3954,9 @@
                 "argent_generé": 2502790.18,
                 "nombre_joueurs": "2417 Players",
                 "nombre_tournois": "370 Tournaments",
-                "couleur": "#FF4C59"
+                "couleur": "#FF4C59",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 16,
@@ -3254,7 +3965,9 @@
                 "argent_generé": 2270662.23,
                 "nombre_joueurs": "667 Players",
                 "nombre_tournois": "219 Tournaments",
-                "couleur": "#A1373C"
+                "couleur": "#A1373C",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 17,
@@ -3263,7 +3976,9 @@
                 "argent_generé": 2195898.27,
                 "nombre_joueurs": "348 Players",
                 "nombre_tournois": "488 Tournaments",
-                "couleur": "#9BCCFF"
+                "couleur": "#9BCCFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 18,
@@ -3272,7 +3987,9 @@
                 "argent_generé": 2186000.00,
                 "nombre_joueurs": "103 Players",
                 "nombre_tournois": "12 Tournaments",
-                "couleur": "#CE3021"
+                "couleur": "#CE3021",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 19,
@@ -3281,7 +3998,9 @@
                 "argent_generé": 2141780.74,
                 "nombre_joueurs": "324 Players",
                 "nombre_tournois": "46 Tournaments",
-                "couleur": "#A8FF66"
+                "couleur": "#A8FF66",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 20,
@@ -3290,7 +4009,9 @@
                 "argent_generé": 2091030.89,
                 "nombre_joueurs": "151 Players",
                 "nombre_tournois": "9 Tournaments",
-                "couleur": "#FFFFFF"
+                "couleur": "#FFFFFF",
+                "URLImage":"logos/logo.jpg"
+
             }
         ],
 
@@ -3302,7 +4023,9 @@
                 "argent_generé": 32954188.52,
                 "nombre_joueurs": "1080 Players",
                 "nombre_tournois": "125 Tournaments",
-                "couleur": "#A82E15"
+                "couleur": "#A82E15",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 2,
@@ -3311,16 +4034,20 @@
                 "argent_generé": 30287379.35,
                 "nombre_joueurs": "758 Players",
                 "nombre_tournois": "103 Tournaments",
-                "couleur": "#4B52A0"
+                "couleur": "#4B52A0",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 3,
-                "jeu": "PLAYERUNKNOWN’S BATTLEGROUNDS Mobile",
+                "jeu": "PUBG Mobile",
                 "lien": "https://www.esportsearnings.com/history/2022/games/554-playerunknowns-battlegrounds-mobile",
                 "argent_generé": 23586766.92,
                 "nombre_joueurs": "1651 Players",
                 "nombre_tournois": "78 Tournaments",
-                "couleur": "#635038"
+                "couleur": "#635038",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 4,
@@ -3329,25 +4056,31 @@
                 "argent_generé": 18283856.48,
                 "nombre_joueurs": "1498 Players",
                 "nombre_tournois": "318 Tournaments",
-                "couleur": "#B719EC"
+                "couleur": "#B719EC",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 5,
-                "jeu": "Counter-Strike: Global Offensive",
+                "jeu": "CS: GO",
                 "lien": "https://www.esportsearnings.com/history/2022/games/245-counter-strike-global-offensive",
                 "argent_generé": 17303751.77,
                 "nombre_joueurs": "3051 Players",
                 "nombre_tournois": "503 Tournaments",
-                "couleur": "#FBAC18"
+                "couleur": "#FBAC18",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 6,
-                "jeu": "League of Legends: Wild Rift",
+                "jeu": "LoL: Wild Rift",
                 "lien": "https://www.esportsearnings.com/history/2022/games/734-league-of-legends-wild-rift",
                 "argent_generé": 13719403.67,
                 "nombre_joueurs": "796 Players",
                 "nombre_tournois": "129 Tournaments",
-                "couleur": "#C79A3B"
+                "couleur": "#C79A3B",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 7,
@@ -3356,16 +4089,20 @@
                 "argent_generé": 9562001.59,
                 "nombre_joueurs": "1858 Players",
                 "nombre_tournois": "559 Tournaments",
-                "couleur": "#096AD1"
+                "couleur": "#096AD1",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 8,
-                "jeu": "PLAYERUNKNOWN’S BATTLEGROUNDS",
+                "jeu": "PUBG",
                 "lien": "https://www.esportsearnings.com/history/2022/games/504-playerunknowns-battlegrounds",
                 "argent_generé": 8495763.82,
                 "nombre_joueurs": "889 Players",
                 "nombre_tournois": "69 Tournaments",
-                "couleur": "#635038"
+                "couleur": "#635038",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 9,
@@ -3374,16 +4111,20 @@
                 "argent_generé": 8169342.51,
                 "nombre_joueurs": "1485 Players",
                 "nombre_tournois": "102 Tournaments",
-                "couleur": "#4AFFFF"
+                "couleur": "#4AFFFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 10,
-                "jeu": "Rainbow Six Siege",
+                "jeu": "R6 Siege",
                 "lien": "https://www.esportsearnings.com/history/2022/games/439-rainbow-six-siege",
                 "argent_generé": 8044806.87,
                 "nombre_joueurs": "684 Players",
                 "nombre_tournois": "72 Tournaments",
-                "couleur": "#02508D"
+                "couleur": "#02508D",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 11,
@@ -3392,7 +4133,9 @@
                 "argent_generé": 6988929.94,
                 "nombre_joueurs": "2537 Players",
                 "nombre_tournois": "218 Tournaments",
-                "couleur": "#FF4C59"
+                "couleur": "#FF4C59",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 12,
@@ -3401,7 +4144,9 @@
                 "argent_generé": 6361121.39,
                 "nombre_joueurs": "934 Players",
                 "nombre_tournois": "164 Tournaments",
-                "couleur": "#A1373C"
+                "couleur": "#A1373C",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 13,
@@ -3410,7 +4155,9 @@
                 "argent_generé": 6197813.57,
                 "nombre_joueurs": "658 Players",
                 "nombre_tournois": "25 Tournaments",
-                "couleur": "#E0A740"
+                "couleur": "#E0A740",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 14,
@@ -3419,16 +4166,20 @@
                 "argent_generé": 5799117.00,
                 "nombre_joueurs": "607 Players",
                 "nombre_tournois": "35 Tournaments",
-                "couleur": "#E26120"
+                "couleur": "#E26120",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 15,
-                "jeu": "Call of Duty: Vanguard",
+                "jeu": "CoD Vanguard",
                 "lien": "https://www.esportsearnings.com/history/2022/games/749-call-of-duty-vanguard",
                 "argent_generé": 5678500.00,
                 "nombre_joueurs": "181 Players",
                 "nombre_tournois": "67 Tournaments",
-                "couleur": "#7BC42D"
+                "couleur": "#7BC42D",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 16,
@@ -3437,7 +4188,9 @@
                 "argent_generé": 2947272.57,
                 "nombre_joueurs": "345 Players",
                 "nombre_tournois": "51 Tournaments",
-                "couleur": "#A8FF66"
+                "couleur": "#A8FF66",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 17,
@@ -3446,16 +4199,20 @@
                 "argent_generé": 2828130.52,
                 "nombre_joueurs": "124 Players",
                 "nombre_tournois": "10 Tournaments",
-                "couleur": "#FFCFBC"
+                "couleur": "#FFCFBC",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 18,
-                "jeu": "Call of Duty: Mobile",
+                "jeu": "CoD Mobile",
                 "lien": "https://www.esportsearnings.com/history/2022/games/639-call-of-duty-mobile",
                 "argent_generé": 2731256.00,
                 "nombre_joueurs": "164 Players",
                 "nombre_tournois": "10 Tournaments",
-                "couleur": "#7BC42D"
+                "couleur": "#7BC42D",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 19,
@@ -3464,7 +4221,9 @@
                 "argent_generé": 2726051.50,
                 "nombre_joueurs": "195 Players",
                 "nombre_tournois": "9 Tournaments",
-                "couleur": "#FFFFFF"
+                "couleur": "#FFFFFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 20,
@@ -3473,7 +4232,9 @@
                 "argent_generé": 2650000.00,
                 "nombre_joueurs": "92 Players",
                 "nombre_tournois": "7 Tournaments",
-                "couleur": "#E44336"
+                "couleur": "#E44336",
+                "URLImage":"logos/logo.jpg"
+
             }
         ], 
 
@@ -3485,7 +4246,9 @@
                 "argent_generé": 32954188.52,
                 "nombre_joueurs": "1080 Players",
                 "nombre_tournois": "125 Tournaments",
-                "couleur": "#A82E15"
+                "couleur": "#A82E15",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 2,
@@ -3494,16 +4257,20 @@
                 "argent_generé": 30287379.35,
                 "nombre_joueurs": "758 Players",
                 "nombre_tournois": "103 Tournaments",
-                "couleur": "#4B52A0"
+                "couleur": "#4B52A0",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 3,
-                "jeu": "PLAYERUNKNOWN’S BATTLEGROUNDS Mobile",
+                "jeu": "PUBG Mobile",
                 "lien": "https://www.esportsearnings.com/history/2022/games/554-playerunknowns-battlegrounds-mobile",
                 "argent_generé": 23586766.92,
                 "nombre_joueurs": "1651 Players",
                 "nombre_tournois": "78 Tournaments",
-                "couleur": "#635038"
+                "couleur": "#635038",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 4,
@@ -3512,25 +4279,31 @@
                 "argent_generé": 18283856.48,
                 "nombre_joueurs": "1498 Players",
                 "nombre_tournois": "318 Tournaments",
-                "couleur": "#B719EC"
+                "couleur": "#B719EC",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 5,
-                "jeu": "Counter-Strike: Global Offensive",
+                "jeu": "CS: GO",
                 "lien": "https://www.esportsearnings.com/history/2022/games/245-counter-strike-global-offensive",
                 "argent_generé": 17303751.77,
                 "nombre_joueurs": "3051 Players",
                 "nombre_tournois": "503 Tournaments",
-                "couleur": "#FBAC18"
+                "couleur": "#FBAC18",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 6,
-                "jeu": "League of Legends: Wild Rift",
+                "jeu": "LoL: Wild Rift",
                 "lien": "https://www.esportsearnings.com/history/2022/games/734-league-of-legends-wild-rift",
                 "argent_generé": 13719403.67,
                 "nombre_joueurs": "796 Players",
                 "nombre_tournois": "129 Tournaments",
-                "couleur": "#C79A3B"
+                "couleur": "#C79A3B",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 7,
@@ -3539,16 +4312,20 @@
                 "argent_generé": 9562001.59,
                 "nombre_joueurs": "1858 Players",
                 "nombre_tournois": "559 Tournaments",
-                "couleur": "#096AD1"
+                "couleur": "#096AD1",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 8,
-                "jeu": "PLAYERUNKNOWN’S BATTLEGROUNDS",
+                "jeu": "PUBG",
                 "lien": "https://www.esportsearnings.com/history/2022/games/504-playerunknowns-battlegrounds",
                 "argent_generé": 8495763.82,
                 "nombre_joueurs": "889 Players",
                 "nombre_tournois": "69 Tournaments",
-                "couleur": "#635038"
+                "couleur": "#635038",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 9,
@@ -3557,16 +4334,20 @@
                 "argent_generé": 8169342.51,
                 "nombre_joueurs": "1485 Players",
                 "nombre_tournois": "102 Tournaments",
-                "couleur": "#4AFFFF"
+                "couleur": "#4AFFFF",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 10,
-                "jeu": "Rainbow Six Siege",
+                "jeu": "R6 Siege",
                 "lien": "https://www.esportsearnings.com/history/2022/games/439-rainbow-six-siege",
                 "argent_generé": 8044806.87,
                 "nombre_joueurs": "684 Players",
                 "nombre_tournois": "72 Tournaments",
-                "couleur": "#02508D"
+                "couleur": "#02508D",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 11,
@@ -3575,7 +4356,9 @@
                 "argent_generé": 6988929.94,
                 "nombre_joueurs": "2537 Players",
                 "nombre_tournois": "218 Tournaments",
-                "couleur": "#FF4C59"
+                "couleur": "#FF4C59",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 12,
@@ -3584,7 +4367,9 @@
                 "argent_generé": 6361121.39,
                 "nombre_joueurs": "934 Players",
                 "nombre_tournois": "164 Tournaments",
-                "couleur": "#A1373C"
+                "couleur": "#A1373C",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 13,
@@ -3593,7 +4378,9 @@
                 "argent_generé": 6197813.57,
                 "nombre_joueurs": "658 Players",
                 "nombre_tournois": "25 Tournaments",
-                "couleur": "#E0A740"
+                "couleur": "#E0A740",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 14,
@@ -3602,16 +4389,20 @@
                 "argent_generé": 5799117.00,
                 "nombre_joueurs": "607 Players",
                 "nombre_tournois": "35 Tournaments",
-                "couleur": "#E26120"
+                "couleur": "#E26120",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 15,
-                "jeu": "Call of Duty: Vanguard",
+                "jeu": "CoD Vanguard",
                 "lien": "https://www.esportsearnings.com/history/2022/games/749-call-of-duty-vanguard",
                 "argent_generé": 5678500.00,
                 "nombre_joueurs": "181 Players",
                 "nombre_tournois": "67 Tournaments",
-                "couleur": "#7BC42D"
+                "couleur": "#7BC42D",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 16,
@@ -3620,7 +4411,9 @@
                 "argent_generé": 2947272.57,
                 "nombre_joueurs": "345 Players",
                 "nombre_tournois": "51 Tournaments",
-                "couleur": "#A8FF66"
+                "couleur": "#A8FF66",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 17,
@@ -3629,16 +4422,20 @@
                 "argent_generé": 2828130.52,
                 "nombre_joueurs": "124 Players",
                 "nombre_tournois": "10 Tournaments",
-                "couleur": "#FFCFBC"
+                "couleur": "#FFCFBC",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 18,
-                "jeu": "Call of Duty: Mobile",
+                "jeu": "CoD Mobile",
                 "lien": "https://www.esportsearnings.com/history/2022/games/639-call-of-duty-mobile",
                 "argent_generé": 2731256.00,
                 "nombre_joueurs": "164 Players",
                 "nombre_tournois": "10 Tournaments",
-                "couleur": "#7BC42D"
+                "couleur": "#7BC42D",
+                "URLImage":"logos/logo.jpg"
+
             },
             {
                 "position": 19,
@@ -3647,7 +4444,10 @@
                 "argent_generé": 2726051.50,
                 "nombre_joueurs": "195 Players",
                 "nombre_tournois": "9 Tournaments",
-                "couleur": "#FFFFFF"
+                "couleur": "#FFFFFF",
+                "URLImage":"logos/logo.jpg"
+
+                
             },
             {
                 "position": 20,
@@ -3656,7 +4456,9 @@
                 "argent_generé": 2650000.00,
                 "nombre_joueurs": "92 Players",
                 "nombre_tournois": "7 Tournaments",
-                "couleur": "#E44336"
+                "couleur": "#E44336",
+                "URLImage":"logos/logo.jpg"
+            
             }
         ],
 
@@ -3668,25 +4470,28 @@
                 "argent_generé": 26099355.33,
                 "nombre_joueurs": "911 Players",
                 "nombre_tournois": "98 Tournaments",
-                "couleur": "#A82E15"
+                "couleur": "#A82E15",
+                "URLImage":"logos/dota2.png"
             },
             {
                 "position": 2,
-                "jeu": "PLAYERUNKNOWN’S BATTLEGROUNDS Mobile",
+                "jeu": "PUBG Mobile",
                 "lien": "https://www.esportsearnings.com/history/2023/games/554-playerunknowns-battlegrounds-mobile",
                 "argent_generé": 14753590.14,
                 "nombre_joueurs": "1281 Players",
                 "nombre_tournois": "47 Tournaments",
-                "couleur": "#635038"
+                "couleur": "#635038",
+                "URLImage":"logos/pubgmobile.png"
             },
             {
                 "position": 3,
-                "jeu": "Counter-Strike: Global Offensive",
+                "jeu": "CS: GO",
                 "lien": "https://www.esportsearnings.com/history/2023/games/245-counter-strike-global-offensive",
                 "argent_generé": 14613008.37,
                 "nombre_joueurs": "1973 Players",
                 "nombre_tournois": "207 Tournaments",
-                "couleur": "#FBAC18"
+                "couleur": "#FBAC18",
+                "URLImage":"logos/csgo.png"
             },
             {
                 "position": 4,
@@ -3695,7 +4500,8 @@
                 "argent_generé": 13207852.46,
                 "nombre_joueurs": "2127 Players",
                 "nombre_tournois": "266 Tournaments",
-                "couleur": "#B719EC"
+                "couleur": "#B719EC",
+                "URLImage":"logos/fortnite.png"
             },
             {
                 "position": 5,
@@ -3704,7 +4510,8 @@
                 "argent_generé": 7805378.58,
                 "nombre_joueurs": "1053 Players",
                 "nombre_tournois": "251 Tournaments",
-                "couleur": "#096AD1"
+                "couleur": "#096AD1",
+                "URLImage":"logos/rocketleague.png"
             },
             {
                 "position": 6,
@@ -3713,7 +4520,8 @@
                 "argent_generé": 7469660.43,
                 "nombre_joueurs": "459 Players",
                 "nombre_tournois": "11 Tournaments",
-                "couleur": "#4B52A0"
+                "couleur": "#4B52A0",
+                "URLImage":"logos/aov.png"
             },
             {
                 "position": 7,
@@ -3722,16 +4530,18 @@
                 "argent_generé": 7399424.24,
                 "nombre_joueurs": "2524 Players",
                 "nombre_tournois": "157 Tournaments",
-                "couleur": "#FF4C59"
+                "couleur": "#FF4C59",
+                "URLImage":"logos/valorant.png"
             },
             {
                 "position": 8,
-                "jeu": "Rainbow Six Siege",
+                "jeu": "R6 Siege",
                 "lien": "https://www.esportsearnings.com/history/2023/games/439-rainbow-six-siege",
                 "argent_generé": 6997156.20,
                 "nombre_joueurs": "387 Players",
                 "nombre_tournois": "12 Tournaments",
-                "couleur": "#02508D"
+                "couleur": "#02508D",
+                "URLImage":"logos/r6siege.png"
             },
             {
                 "position": 9,
@@ -3740,7 +4550,8 @@
                 "argent_generé": 6182253.33,
                 "nombre_joueurs": "522 Players",
                 "nombre_tournois": "94 Tournaments",
-                "couleur": "#A8FF66"
+                "couleur": "#A8FF66",
+                "URLImage":"logos/fifa23.png"
             },
             {
                 "position": 10,
@@ -3749,16 +4560,18 @@
                 "argent_generé": 5083545.32,
                 "nombre_joueurs": "1200 Players",
                 "nombre_tournois": "87 Tournaments",
-                "couleur": "#4AFFFF"
+                "couleur": "#4AFFFF",
+                "URLImage":"logos/lol.png"
             },
             {
                 "position": 11,
-                "jeu": "Call of Duty: Modern Warfare II",
+                "jeu": "CoD MW II",
                 "lien": "https://www.esportsearnings.com/history/2023/games/816-call-of-duty-modern-warfare-ii",
                 "argent_generé": 4446000.00,
                 "nombre_joueurs": "64 Players",
                 "nombre_tournois": "15 Tournaments",
-                "couleur": "#7BC42D"
+                "couleur": "#7BC42D",
+                "URLImage":"logos/mwii.png"
             },
             {
                 "position": 12,
@@ -3767,16 +4580,18 @@
                 "argent_generé": 4405760.40,
                 "nombre_joueurs": "307 Players",
                 "nombre_tournois": "26 Tournaments",
-                "couleur": "#A1373C"
+                "couleur": "#A1373C",
+                "URLImage":"logos/apexlegends.png"
             },
             {
                 "position": 13,
-                "jeu": "PLAYERUNKNOWN’S BATTLEGROUNDS",
+                "jeu": "PUBG",
                 "lien": "https://www.esportsearnings.com/history/2023/games/504-playerunknowns-battlegrounds",
                 "argent_generé": 4398590.92,
                 "nombre_joueurs": "411 Players",
                 "nombre_tournois": "26 Tournaments",
-                "couleur": "#635038"
+                "couleur": "#635038",
+                "URLImage":"logos/pubg.png"
             },
             {
                 "position": 14,
@@ -3785,7 +4600,8 @@
                 "argent_generé": 3596384.12,
                 "nombre_joueurs": "666 Players",
                 "nombre_tournois": "53 Tournaments",
-                "couleur": "#E26120"
+                "couleur": "#E26120",
+                "URLImage":"logos/overwatch2.png"
             },
             {
                 "position": 15,
@@ -3794,16 +4610,18 @@
                 "argent_generé": 2925000.00,
                 "nombre_joueurs": "105 Players",
                 "nombre_tournois": "9 Tournaments",
-                "couleur": "#E44336"
+                "couleur": "#E44336",
+                "URLImage":"logos/2k23.png"
             },
             {
                 "position": 16,
-                "jeu": "Mobile Legends: Bang Bang",
+                "jeu": "ML: Bang Bang",
                 "lien": "https://www.esportsearnings.com/history/2023/games/531-mobile-legends-bang-bang",
                 "argent_generé": 2255692.49,
                 "nombre_joueurs": "659 Players",
                 "nombre_tournois": "21 Tournaments",
-                "couleur": "#2B5F9D"
+                "couleur": "#2B5F9D",
+                "URLImage":"logos/mobilelegends.png"
             },
             {
                 "position": 17,
@@ -3812,7 +4630,8 @@
                 "argent_generé": 2036000.00,
                 "nombre_joueurs": "303 Players",
                 "nombre_tournois": "103 Tournaments",
-                "couleur": "#779556"
+                "couleur": "#779556",
+                "URLImage":"logos/chess.png"
             },
             {
                 "position": 18,
@@ -3821,7 +4640,8 @@
                 "argent_generé": 2019872.10,
                 "nombre_joueurs": "240 Players",
                 "nombre_tournois": "15 Tournaments",
-                "couleur": "#FFFFFF"
+                "couleur": "#FFFFFF",
+                "URLImage":"logos/crossfire.png"
             },
             {
                 "position": 19,
@@ -3830,16 +4650,18 @@
                 "argent_generé": 1672478.54,
                 "nombre_joueurs": "197 Players",
                 "nombre_tournois": "240 Tournaments",
-                "couleur": "#9BCCFF"
+                "couleur": "#9BCCFF",
+                "URLImage":"logos/starcraftii.png"
             },
             {
                 "position": 20,
-                "jeu": "League of Legends: Wild Rift",
+                "jeu": "LoL: Wild Rift",
                 "lien": "https://www.esportsearnings.com/history/2023/games/734-league-of-legends-wild-rift",
                 "argent_generé": 1568391.16,
                 "nombre_joueurs": "126 Players",
                 "nombre_tournois": "6 Tournaments",
-                "couleur": "#C79A3B"
+                "couleur": "#C79A3B",
+                "URLImage":"logos/lolwr.png"
             }
         ]
     }
