@@ -4,6 +4,8 @@ let default_value_barre = 200;
 let largeur_barre;
 let an = 2003
 let compteur = 0
+let currentYearData;
+let barreId;
 
 annee(an)
 
@@ -16,23 +18,28 @@ function choix_annee() {
     annee(an);
 }
 
-function next() {
+function next(event) {
+    event.preventDefault();
+    event.stopPropagation();
+
     if (an >= 2023) {
-        an = 2002
+        an = 2002;
     }
-    an = an + 1 
-    document.querySelector(".year").innerHTML = "Année : " + an
-    console.log(an)
+    an = an + 1;
+    document.querySelector(".year").innerHTML = an
     annee(an)
+    // Mettez ici votre logique pour mettre à jour le graphique
 }
 
-function previous() {
+function previous(event) {
+    event.preventDefault();
+    event.stopPropagation();
+
     if (an <= 2003) {
-        an = 2024
+        an = 2024;
     }
-    an = an - 1 
-    document.querySelector(".year").innerHTML = "Année : " + an
-    console.log(an)
+    an = an - 1;
+    document.querySelector(".year").innerHTML = an;
     annee(an)
 }
 
@@ -40,17 +47,40 @@ function annee(x) {
     console.log(an)
     d3.json("data.json").then(function (jsonData) {
         data = jsonData;
-        let current_year = data["classement"][x];
-        createBarChart(current_year);
+        currentYearData = data["classement"][x];
+        createBarChart(currentYearData);
     });
 }
 
+
 function createBarChart(data) {
     const svgContainer = d3.select("#bar-chart");
-    svgContainer.selectAll("*").remove();
-    const margin = { top: 50, right: 75 , bottom: 30, left:20 };
+    svgContainer.selectAll(":not(.stats)").remove();
+
+
+    
+    const margin = { top: 50, right: 125 , bottom: 30, left:70 };
     const width = document.getElementById('bar-chart').offsetWidth - margin.left - margin.right;
     const height = 700 - margin.top - margin.bottom;
+
+
+
+
+    d3.select("#bar-chart")
+    .append("div")
+    .attr("class","year")
+    .text(an)
+
+
+    d3.select("#bar-chart")
+        .append("image")
+        .attr("class","suivant")
+        .attr("onclick", "next(event)")
+
+        d3.select("#bar-chart")
+        .append("image")
+        .attr("class","precedent")
+        .attr("onclick", "previous(event)")
 
     const svg = d3.select("#bar-chart")
         .append("svg")
@@ -61,12 +91,14 @@ function createBarChart(data) {
         .style("background", "linear-gradient(259deg, rgba(0, 255, 255, 0.1) -74.6%, rgba(0, 255, 255, 0.1) 101.52%")
         .style("box-shadow", "2px 2px 100px 0px rgba(66, 66, 66, 0.10) inset, -2px -2px 100px 0px rgba(255, 255, 255, 0.2) inset")
         .style("backdrop-filter", "blur(45px)")
-
         .style("position", "absolute")
         .style("left", "50%")
         .style('transform', "translateX(-50%)")
         .append("g")
         .attr("transform", `translate(${margin.left},${margin.top})`);
+
+        d3.select("#bar-chart")
+        .append("a")
 
     const x = d3.scaleBand()
         .domain(data.map(d => d.jeu))
@@ -78,7 +110,7 @@ function createBarChart(data) {
         .nice()
         .range([height, 0]);
 
-        svg.selectAll(".bar")
+    svg.selectAll(".bar")
     .data(data)
     .enter()
     .append("rect")
@@ -94,8 +126,9 @@ function createBarChart(data) {
     .attr("y", d => y(d.argent_generé))
     .attr("height", d => height - y(d.argent_generé))
     .on("end", function () {
-        // Ajoutez un cercle pour chaque barre après l'animation des barres
-        svg.selectAll(".image")
+       
+
+    svg.selectAll(".image")
     .data(data)
     .enter()
     .append("image")
@@ -110,15 +143,16 @@ function createBarChart(data) {
     .on("mouseover", function (d, i) {
         d3.selectAll(".bar").style("opacity", 0.5);
         d3.selectAll(".image").style("opacity", 0.5);
-        var imageId = d3.select(this).attr("id").split("-")[1];
-        d3.select("#barreui-" + imageId).style("opacity", 1);
+        barreId = d3.select(this).attr("id").split("-")[1];
+        d3.select("#image-" + barreId).style("opacity", 1);
         d3.select(this).style("opacity", 1);
-        d3.select(".stats").transition()
-            .text("Jeu: " + d.jeu + "<br/>" + "Argent généré: " + d.argent_generé)
-            .duration(200)
-            .style("opacity", .9);
+        d3.select(".stats")
+        .html("<p> <strong>Jeu:</strong> " + currentYearData[barreId].jeu + "<br>" + "<strong>Argent reversé:</strong> " + currentYearData[barreId].argent_generé.toLocaleString('fr-FR') + " $ <br> <strong>Nombre de joueurs:</strong> " + currentYearData[barreId].nombre_joueurs + "<br> <strong> Nombre de tournois: </strong>" + currentYearData[barreId].nombre_tournois + "</p>")
+        .duration(200)
+        .style("opacity", .9);
     })
     .on("mouseout", function (d, i) {
+
         // À la sortie du survol, rétablissez l'opacité normale de la barre
         d3.selectAll(".bar").style("opacity", 1);
         d3.selectAll(".image").style("opacity", 1);
@@ -160,25 +194,24 @@ function createBarChart(data) {
             d3.selectAll(".bar").style("opacity", 0.5);
             d3.select(this).style("opacity", 1);
             d3.selectAll(".image").style("opacity", 0.5);
-            var barreId = d3.select(this).attr("id").split("-")[1];
+            barreId = d3.select(this).attr("id").split("-")[1];
             d3.select("#image-" + barreId).style("opacity", 1);
             d3.select(this).style("opacity", 1);
-            d3.select(".stats").transition()
-                .text("Jeu: " + d.jeu + "<br/>" + "Argent généré: " + d.argent_generé)
-                .duration(200)
-                .style("opacity", .9);
+            console.log(currentYearData[barreId])
+            d3.select(".stats")
+            .html("<p> <strong>Jeu:</strong> " + currentYearData[barreId].jeu + "<br>" + "<strong>Argent reversé:</strong> " + currentYearData[barreId].argent_generé.toLocaleString('fr-FR') + " $ <br> <strong>Nombre de joueurs:</strong> " + currentYearData[barreId].nombre_joueurs + "<br> <strong> Nombre de tournois: </strong>" + currentYearData[barreId].nombre_tournois + "</p>")
+            .duration(200)
+            .style("opacity", .9);
         })
         .on("mouseout", function () {
             // Rétablir l'opacité normale des barres
             d3.selectAll(".bar").style("opacity", 1);
-            d3.selectAll(".image").style("opacity", 1);
+            d3.selectAll(".image").style("opacity", 1); 
             d3.select(".stats").transition()
                 .text("")
                 .duration(200)
                 .style("opacity", .9);
-    
         });
-
     
     window.addEventListener('resize', () => {
         const newWidth = document.getElementById('bar-chart').offsetWidth - margin.left - margin.right;
@@ -194,13 +227,22 @@ function createBarChart(data) {
 
         svg.selectAll('.bar-label')
             .attr('x', d => x(d.jeu) + x.bandwidth() / 2)
-    
+            svg.append("rect")
+            .attr("class", "persistent")
+            .attr("width", width)
+            .attr("height", height)
+            .attr("fill", "none")
+            .attr("pointer-events", "all"); // Pour permettre aux événements de se propager à travers le rectangle
+            
 
 
 
 
 
         })
+
 }
-
-
+document.addEventListener("DOMContentLoaded", function () {
+    document.querySelector(".suivant").addEventListener("click", next);
+    document.querySelector(".precedent").addEventListener("click", previous);
+});
