@@ -1,7 +1,0 @@
-for (let index = 0; index < current_year.length; index++) {
-    const element = current_year[index];
-    console.log(element)
-    //Permet de séparer toutes les propriétés d'un objet JSON
-    
-    
-}
